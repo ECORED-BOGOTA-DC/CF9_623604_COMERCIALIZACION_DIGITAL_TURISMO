@@ -1,17 +1,26 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Conceptos de producción de contenido digital',
+    descripcionCurso:
+      'El diseño gráfico les permite a las empresas turísticas, desarrollar estrategias de comunicación visual para transmitir a sus usuarios su marca, valores, propuestas de valor, productos y/o servicios, entre otros; por medio de un mensaje eficaz e inmediato.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-4.png'),
       },
     ],
   },
@@ -31,28 +40,242 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Diseño gráfico',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Fundamentos de diseño gráfico',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Herramientas y técnicas de elaboración de piezas gráficas',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Otras herramientas de diseño',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Herramienta para la creación de audio',
+            hash: 't_1_4',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Comunicación visual',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Publicación online para empresas turísticas',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Plataforma de publicación',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Criterios de publicación',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Parámetros de actualización',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Mapa de contenidos',
+            hash: 't_3_4',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Audiencias',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Identificación de audiencias',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Segmentación demográfica de las audiencias',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Segmentación por compras, uso o consumo',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Segmentación basada en la plataforma',
+            hash: 't_4_4',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: '<em>Chatbots</em>',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: '¿Qué son los <em>chatbots</em>?',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Tipos de <em>chatbots</em>',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Ventajas y desventajas',
+            hash: 't_5_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: '<em>Big data</em>',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Técnicas de búsqueda',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Organización',
+            hash: 't_6_2',
+          },
+          {
+            numero: '6.3',
+            titulo: 'Jerarquización',
+            hash: 't_6_3',
+          },
+          {
+            numero: '6.4',
+            titulo: 'Clasificación de datos',
+            hash: 't_6_4',
+          },
+          {
+            numero: '6.5',
+            titulo: 'Métodos de normalización',
+            hash: 't_6_5',
+          },
+          {
+            numero: '6.6',
+            titulo: 'Técnicas de extracción de información',
+            hash: 't_6_6',
+          },
+          {
+            numero: '6.7',
+            titulo: 'Técnicas de validación',
+            hash: 't_6_7',
+          },
+          {
+            numero: '6.8',
+            titulo: 'Seguridad de la información',
+            hash: 't_6_8',
+          },
+          {
+            numero: '6.9',
+            titulo: 'Gestión de la información',
+            hash: 't_6_9',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: '<em>Business Intelligence</em>',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '7.1',
+            titulo: 'Características',
+            hash: 't_7_1',
+          },
+          {
+            numero: '7.2',
+            titulo: 'Datos estructurados',
+            hash: 't_7_2',
+          },
+          {
+            numero: '7.3',
+            titulo: 'Datos no estructurados',
+            hash: 't_7_3',
+          },
+          {
+            numero: '7.4',
+            titulo: 'Datos semiestructurados',
+            hash: 't_7_4',
+          },
+          {
+            numero: '7.5',
+            titulo: 'Datos internos',
+            hash: 't_7_5',
+          },
+          {
+            numero: '7.6',
+            titulo: 'Datos externos',
+            hash: 't_7_6',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema8',
+        numero: '8',
+        titulo: '<em>Big Data marketing</em>',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '8.1',
+            titulo: 'Concepto en la toma de decisiones',
+            hash: 't_8_1',
+          },
+          {
+            numero: '8.2',
+            titulo: ' Características del <em>Big data marketing</em>',
+            hash: 't_8_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema9',
+        numero: '9',
+        titulo: '<em>PQRS</em>',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '9.1',
+            titulo: 'Características',
+            hash: 't_9_1',
+          },
+          {
+            numero: '9.2',
+            titulo: 'Gestión de PQRS',
+            hash: 't_9_2',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -102,32 +325,253 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Fundamentos de diseño gráfico',
+      referencia: 'Hassler Castro (2020) Validación cruzada. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/B9cfaD721Tk',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '<em>Big data</em>',
+      referencia:
+        'Ortiz, G. B. (2018). Verificación y validación de modelos <em>machine learning</em> usados para predecir y analizar la calidad del software desarrollado en IBM RPG.',
+      tipo: 'Artículo',
+      link:
+        'https://www.researchgate.net/publication/329196848_VERIFICACION_Y_VALIDACION_DE_MODELOS_MACHINE_LEARNING_USADOS_PARA_PREDECIR_Y_ANALIZAR_LA_CALIDAD_DEL_SOFTWARE_DESARROLLADO_EN_IBM_RPG',
+    },
+    {
+      tema: 'Seguridad de la información',
+      referencia: 'https://normaiso27001.es/. QUE ES ISO 27001',
+      tipo: 'Artículo',
+      link: 'https://normaiso27001.es/',
+    },
+    {
+      tema: 'Seguridad de la información',
+      referencia:
+        'Ministerio TIC Colombia (2021) Normatividad de seguridad y privacidad de la información. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/D5bHKmSwwUQ',
+    },
+    {
+      tema: 'Fundamentos de diseño gráfico',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA (2021). Reglas básicas para el diseño. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.YouTube.com/watch?v=Tl7FBNujWyI',
+    },
+    {
+      tema: 'Fundamentos de diseño gráfico',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA (2021). Psicología del color: significado de colores en la publicidad. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.YouTube.com/watch?v=UWSe5bCGNhs',
+    },
+    {
+      tema: 'Herramientas y técnicas de elaboración de piezas gráficas',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA (2021). Figma. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.YouTube.com/watch?v=p2P3ETt_hcs&t=5s',
+    },
+    {
+      tema: 'Herramientas y técnicas de elaboración de piezas gráficas',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA (2021). Creación de marca. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.YouTube.com/watch?v=3RHnB9izZ_8',
+    },
+    {
+      tema: 'Herramientas y técnicas de elaboración de piezas gráficas',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA (2021). Creación de piezas. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.YouTube.com/watch?v=VDC5rltd8Vw&t=61s',
+    },
+    {
+      tema: 'Herramienta para la creación de audio',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA (2021). Conoce que es el Audacity. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.YouTube.com/watch?v=66cRVRhTWf4',
+    },
+    {
+      tema: 'Herramienta para la creación de audio',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA (2021). Creación de audio. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.YouTube.com/watch?v=cgqq8gDEPHM',
+    },
+    {
+      tema: 'Comunicación visual',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA (2021). Capcut. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.YouTube.com/watch?v=Ngv9Q--VLBA&t=3s',
+    },
+    {
+      tema: 'Creación de video',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA (2021). Creación de video. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.YouTube.com/watch?v=erk3tP-avF8',
+    },
+    {
+      tema: 'Creación de video',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA (2021). Conceptualización del desarrollo multimedia y web: introducción. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.YouTube.com/watch?v=i74TnksLTcs',
+    },
+    {
+      tema: 'Mapa de contenidos',
+      referencia:
+        'InboundCycle - Marketing y ventas inbound. (2021) Content Mapping o Mapa de Contenidos: ¿qué es? [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.YouTube.com/watch?v=ct05j0hGTNw&t',
+    },
+    {
+      tema: 'Identificación de audiencias',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA (2020). Buyer persona y plan de comunicación digital. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.YouTube.com/watch?v=NtXnXMx6TcQ',
+    },
+    {
+      tema: 'Segmentación basada en la plataforma',
+      referencia:
+        'MES academy (2017). ¿Cómo definir tu audiencia en la estrategia de Marketing digital? Lección 6. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.YouTube.com/watch?v=p2P3ETt_hcs&t=5s',
+    },
+    {
+      tema: 'Técnicas de búsqueda',
+      referencia:
+        'Inteligencia Artificial-Mecatrónica UX (2020). Inteligencia Artificial-Mecatrónica UX. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/dfvgNztUhrc',
+    },
+    {
+      tema: 'Técnicas de búsqueda',
+      referencia:
+        'Diego Torre (2020). Búsqueda en Profundidad. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/UYtnHmls2ec',
+    },
+    {
+      tema: 'Clasificación de datos',
+      referencia:
+        'Flavio Palma (2018). Clasificación de Datos – Estadística. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/zpUuZuzQqWI',
+    },
+    {
+      tema: 'Seguridad de la información',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA (2021). Seguridad de la información. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/OC8x73OfV6s',
+    },
+    {
+      tema: 'Seguridad de la información',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA (2022). Controles y estándares para el manejo de la seguridad de la información. [Video].',
+      tipo: 'Video',
+      link: 'https://youtu.be/n6Dffo75ts0',
+    },
+    {
+      tema: 'Seguridad de la información',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA (2022). Firewall. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/HcQtLHiepto',
+    },
+    {
+      tema: 'Datos estructurados',
+      referencia:
+        'Weborganico - Javier Cantero (2021). ¿Qué son los datos estructurados (schema) y como nos ayuda al SEO? [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/imB0TP1rIsA',
+    },
+    {
+      tema: 'PQRS',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA (2022). Atención PQR: introducción. [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/PSiBtkl75Hc',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Audiencia',
+      significado:
+        'cantidad de público al que se pretende hacer llegar un mensaje de la marca para generar interacción.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Diseño gráfico',
+      significado:
+        'el arte y proceso de combinar texto e imágenes (figuras, fotografías, dibujos…) para comunicar un mensaje de forma efectiva.',
+    },
+    {
+      termino: 'Marca',
+      significado:
+        'es una categoría de signo distintivo que identifica los productos o servicios de una empresa o empresario.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia: 'A, D. (2021). <em>Hostinger Tutoriales</em>.',
+      link: 'https://www.hostinger.co/tutoriales/como-crear-una-pagina-web/',
+    },
+    {
+      referencia: 'Bello, E. (s.f.). <em>IEBS Business School</em>',
+      link:
+        'https://www.iebschool.com/blog/herramientas-analisis-web-analitica-usabilidad/',
+    },
+    {
+      referencia: 'Cabrera, M. (2017). <em>Nube digital mx</em>.',
+      link:
+        'https://www.nubedigital.mx/flexo/post/que-es-un-certificado-de-seguridad-y-de-que-tipos-hay',
+    },
+    {
+      referencia: 'Capella, M. (2020). <em>Inboundcycle</em>.',
+      link:
+        'https://www.inboundcycle.com/blog-de-inbound-marketing/como-posicionar-mi-web-5-pasos-para-ser-top-1-en-google',
+    },
+    {
+      referencia: 'Content, R. (2019). <em>Rock Content</em>.',
+      link: 'https://rockcontent.com/es/blog/que-son-las-cookies/',
+    },
+    {
+      referencia: 'Coppola, M. E. (s.f.). <em>Hubspot</em>.',
+      link: 'https://blog.hubspot.es/marketing/diseno-responsive',
+    },
+    {
+      referencia: 'Iberdrola. (s.f.). <em>Iberdrola</em>.',
+      link: 'https://www.iberdrola.com/innovacion/que-es-accesibilidad-web',
+    },
+    {
+      referencia: 'Inboundcycle. (s.f.). <em>Inboundcycle</em>.',
+      link:
+        'https://www.inboundcycle.com/diccionario-marketing-online/usabilidad-web',
+    },
+    {
+      referencia:
+        'Kaushik, A. (2010). <em>Analítica web 2.0 El arte de analizar resultados y la ciencia de centrarse en el cliente</em>. Gestión 2000.',
       link: '',
+    },
+    {
+      referencia:
+        'marketing, D. d. (2017). <em>Ser o no ser marketing online. Ser o no ser marketing online.</em>',
+      link:
+        'https://www.snsmarketing.es/blog/que-estructura-debe-de-tener-una-pagina-web/',
+    },
+    {
+      referencia: 'Martinez, L. (2021). <em>crehana</em>.',
+      link:
+        'https://www.crehana.com/co/blog/desarrollo-web/que-es-desarrollo-web/',
+    },
+    {
+      referencia: 'Techlib. (s.f.). <em>Techlib</em>.',
+      link: 'https://techlib.net/definition/web_development.html',
     },
   ],
   creditos: [
@@ -151,10 +595,35 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Eddy Cárdenas',
+          cargo: 'Experto temático',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Zuleidy María Ruiz Torres',
+          cargo: 'Experto temático',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Gloria Alexandra Orejarena Barrios',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Asesor Metodológico',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo Desarrollo Curricular',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Corrector de estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
       ],
     },
