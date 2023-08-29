@@ -358,4 +358,6 @@ export default {
   background-color: #9CD8E6
 .tabs-c.color-primario .tabs-c__tab--active
   font-weight: bold
+.cajon.color-primario:before
+  background-color: #FCCC7A
 </style>
