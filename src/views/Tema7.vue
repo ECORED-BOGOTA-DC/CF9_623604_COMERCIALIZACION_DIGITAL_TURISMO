@@ -12,7 +12,12 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema7/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4.p-lg-5
-        p.mb-0 Una jerarquía de datos es donde los datos se conectan a una capa de datos y conduce a una capa de datos, que conduce a otra capa debajo de ella. Cada capa se vuelve más específica hasta que el usuario encuentra exactamente lo que necesita. No solo se usa para ayudar a los usuarios a encontrar información, sino que también se usa para generar la respuesta correcta a partir de un lenguaje de programación basado en la entrada del usuario.
+        p.mb-0 #[Em Business Intelligence] (BI) es la combinación entre minería de datos, visualización de datos, herramientas e infraestructura de datos y mejores prácticas para mantener a las organizaciones a implementar decisiones basadas en datos. En la práctica, sabe que tiene una genialidad de negocios moderna cuando tiene una fantasía mundial de los datos de su dirección y utiliza esos datos para propiciar el cambio, extender las ineficiencias y adaptarse enseguida a los cambios del mercado o de la oferta. 
+        |
+        br
+        br
+        | Es importante tener en cuenta que esta es una definición muy moderna de BI y que tiene una larga historia, pues la inteligencia empresarial tradicional, surgió originalmente en la década de los años 60 como un sistema para compartir información entre organizaciones, ya en la década de 1980, evolucionó con modelos informáticos para la toma de decisiones, convirtiendo los datos en conocimientos y luego en un producto particular de dispositivos de BI con soluciones modernas que prioriza el análisis de autoservicio flexible, los datos administrados en plataformas confiables, los usuarios comerciales capacitados y los conocimientos rápidos.  
+
     
     Separador.mt-5
 

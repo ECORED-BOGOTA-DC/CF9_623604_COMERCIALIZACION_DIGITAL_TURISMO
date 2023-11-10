@@ -9,6 +9,14 @@
     
     p(data-aos="zoom-in") La forma de hacer turismo ha cambiado durante los últimos años, ya no solo se trata de vender un alojamiento, un transporte o una cena, las empresas turísticas acuden a generar toda una serie de experiencias que generen un sentimiento memorable para los usuarios.
 
+    .row.mt-4
+      .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
+        figure.m-auto.col-7.col-md-8.col-lg-12
+          img(src="@/assets/curso/tema3/48.png")
+      .col-lg-6(data-aos="fade-left")
+        .cajon.p-4.color-primario.h-100.d-flex.flex-wrap.align-content-center(style="background-color:#FFF7E5;")
+          p.mb-0 Los usuarios, están cada vez más conectados a internet y pueden hacer una investigación más profunda antes de decidir realizar la compra; prefieren información y atención personalizada, contar con diferentes canales de interacción con la empresa, tener diferentes opciones y conocer las opiniones de otros usuarios. A continuación, se presentan diferentes tipos de acciones que la empresa turística puede realizar cuando piense en publicar contenido en línea: 
+
     AcordionA.mt-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="Mercadeo en video")
         .col-md-6.col-lg-8.mb-4.mb-md-0

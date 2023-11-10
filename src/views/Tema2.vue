@@ -99,6 +99,11 @@
         p.fw-bold.mt-4(style="color:#12263F;") Receptor
         p(style="color:#12263F;") El o los usuarios que reciben el mensaje.
     
+    .mt-5.mb-4.p-3(style="max-width:fit-content;min-width:250px;background-color:#B1DE19;border-radius:30px 0px 30px 0px;" data-aos="zoom-in-up")
+      h4.mb-0.ps-2.pe-4 Herramienta CapCut 
+    
+    p(data-aos="fade-right") CapCut es una aplicación que le puede ayudar a la empresa turística con la edición de los vídeos. Por ejemplo: cortar, retroceder o cambiar la velocidad, entre otras funcionalidades.  
+    
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FFECBE;border-radius:15px;")
         .row.m-0

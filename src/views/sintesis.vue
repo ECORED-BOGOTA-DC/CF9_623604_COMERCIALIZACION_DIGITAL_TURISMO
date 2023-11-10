@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Imagen que muestra la síntesis de los conceptos de producción de contenido digital, donde se alcanzan resultados mediante principios de diseño gráfico, producción multimedia y los aspectos más importantes de las estrategias de mercado, junto con todos los elementos que conforman cada apartado.")
+          img(src="@/assets/curso/sintesis.png", alt="Imagen que muestra la síntesis de los conceptos de producción de contenido digital, donde se alcanzan resultados mediante principios de diseño gráfico, producción multimedia y los aspectos más importantes de las estrategias de mercado, junto con todos los elementos que conforman cada apartado.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

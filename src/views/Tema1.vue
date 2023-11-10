@@ -206,6 +206,26 @@
             a.boton.color-acento-botones(href="https://www.YouTube.com/watch?v=p2P3ETt_hcs&t=5s" target="_blank")
               span Ver video
               i.fas.fa-play
+
+    .mt-5.mb-4.p-3(style="max-width:fit-content;min-width:250px;background-color:#B1DE19;border-radius:30px 0px 30px 0px;" data-aos="zoom-in-up")
+      h4.mb-0.ps-2.pe-4 #[em Branding]
+    
+    p(data-aos="fade-left") Al hablar de #[em branding], se hace mención de las estrategias de #[em marketing] que necesitan las empresas turísticas para construir su identidad. Para hacer esto, debe considerar elementos como: el nombre, el logotipo, los valores, la tipografía, los colores y la filosofía. Con esta herramienta, la empresa turística puede diseñar su marca.
+    p.mt-4(Data-aos="fade-right") Sin embargo, antes de iniciar con la construcción del contenido, es importante hablar de #[em branding], como las estrategias de #[em marketing] que implementa la empresa para construir su identidad y posicionar la marca en el mercado, a su propósito y valores; y así, crear conexiones conscientes e inconscientes con el público, con el objetivo de ayudar a los clientes potenciales en sus decisiones de compra, en otras palabras, el #[em branding] se enfoca en hacer conocida y deseada una marca, así como en ejercer una imagen positiva en la mente y el corazón de los consumidores.
+
+    .col-xl-10.m-auto.mt-5
+      .p-4(data-aos="flip-up" style="background-color:#FFECBE;border-radius:15px;")
+        .row.m-0
+          .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
+            figure.text-center
+              img(src="@/assets/curso/tema1/12.svg" style="display:inline;max-width:50px;" alt="Imagen decorativa")
+          .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
+            p.mb-0 Te invito aprendiz a observar el video llamado: #[strong “Creación de marca”] en el que podrá identificar el paso a paso para la creación de marca dentro del diseño gráfico: 
+          .col-lg-3.col-md-3.text-center(style="place-self:center;")
+            a.boton.color-acento-botones(href="https://www.YouTube.com/watch?v=3RHnB9izZ_8" target="_blank")
+              span Ver video
+              i.fas.fa-play
+
     
     .mt-5.mb-4.p-3(style="max-width:fit-content;min-width:250px;background-color:#B1DE19;border-radius:30px 0px 30px 0px;" data-aos="zoom-in-up")
       h4.mb-0.ps-2.pe-4 Creación de piezas
