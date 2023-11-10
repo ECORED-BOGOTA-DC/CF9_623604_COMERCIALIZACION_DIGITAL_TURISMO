@@ -417,7 +417,7 @@ export default {
     {
       tema: 'Mapa de contenidos',
       referencia:
-        'InboundCycle - Marketing y ventas inbound.. (2021). <em>Content Mapping</em> o Mapa de Contenidos: ¿qué es? [Video]. YouTube.',
+        'InboundCycle - Marketing y ventas inbound. (2021). <em>Content Mapping</em> o Mapa de Contenidos: ¿qué es? [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.YouTube.com/watch?v=ct05j0hGTNw&t',
     },
@@ -544,11 +544,12 @@ export default {
         'https://www.crehana.com/co/blog/desarrollo-web/que-es-desarrollo-web/ ',
     },
     {
-      referencia: 'Iberdrola. (s.f.).<em>Iberdrola</em>. ',
+      referencia: 'Iberdrola. (s.f.). <em>Accesibilidad web.</em> ',
       link: 'https://www.iberdrola.com/innovacion/que-es-accesibilidad-web ',
     },
     {
-      referencia: 'Inboundcycle. (s.f.). <em>Accesibilidad web</em>. ',
+      referencia:
+        'Inboundcycle. (s.f.). <em>Usabilidad web: qué es, recomendaciones para mejorarla y ejemplos.</em>  ',
       link:
         'https://www.inboundcycle.com/diccionario-marketing-online/usabilidad-web ',
     },
@@ -649,7 +650,7 @@ export default {
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: '',
+          nombre: 'Laura Gisselle Murcia Pardo',
           cargo: 'Animación y producción audiovisual',
           centro:
             'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',

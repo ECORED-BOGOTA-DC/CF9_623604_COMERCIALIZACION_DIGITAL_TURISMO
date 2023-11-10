@@ -220,7 +220,7 @@
         ModalA(:abrir-modal.sync="modal1")
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0.col-lg-8
-              h4.text-white text-white CrowdCast
+              h4.text-white CrowdCast
               p.text-white Pueden hacer videoconferencias y congresos #[em.text-white online]. Cuenta con funciones para preguntas y respuestas.
             .col-md-6.col-lg-4
               figure
