@@ -13,43 +13,43 @@
       .tarjeta.color-acento-botones.p-4.text-center(style="background-color:#F3FADC;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
-            img(src='@/assets/curso/tema2/1.svg')
+            img(src='@/assets/curso/tema2/1.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Mensaje
         p(style="color:#12263F;") Lo que la empresa turística quiere transmitir a través de la comunicación.
       .tarjeta.color-acento-botones.p-4.text-center(style="background-color:#F3FADC;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
-            img(src='@/assets/curso/tema2/2.png')
+            img(src='@/assets/curso/tema2/2.png' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Editor
         p(style="color:#12263F;") Empresa de turismo o responsable de la creación de mensajes.
       .tarjeta.color-acento-botones.p-4.text-center(style="background-color:#F3FADC;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
-            img(src='@/assets/curso/tema2/3.svg')
+            img(src='@/assets/curso/tema2/3.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Canal
         p(style="color:#12263F;") El medio utilizado para entregar el mensaje. Ejemplos: Sitios web, redes sociales, televisión, entre otros.
       .tarjeta.color-acento-botones.p-4.text-center(style="background-color:#F3FADC;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
-            img(src='@/assets/curso/tema2/4.svg')
+            img(src='@/assets/curso/tema2/4.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Código
         p(style="color:#12263F;") Normalmente se emplea una letra que representa una idea que la empresa quiere transmitir y que el usuario necesita entender.
       .tarjeta.color-acento-botones.p-4.text-center(style="background-color:#F3FADC;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
-            img(src='@/assets/curso/tema2/5.png')
+            img(src='@/assets/curso/tema2/5.png' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Contexto
         p(style="color:#12263F;") Situación en la que se transmite un mensaje y que puede provocar diferentes interpretaciones en consecuencia.
       .tarjeta.color-acento-botones.p-4.text-center(style="background-color:#F3FADC;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
-            img(src='@/assets/curso/tema2/6.svg')
+            img(src='@/assets/curso/tema2/6.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Objetivo
         p(style="color:#12263F;") Qué quieren conseguir las empresas turísticas con un mensaje a  los usuarios.
       .tarjeta.color-acento-botones.p-4.text-center(style="background-color:#F3FADC;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
-            img(src='@/assets/curso/tema2/7.svg')
+            img(src='@/assets/curso/tema2/7.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Destinatario
         p(style="color:#12263F;")  Uno o más usuarios que reciben el mensaje.
     
@@ -59,43 +59,43 @@
       .tarjeta.color-acento-botones.p-4.text-center.tarjeta_hover.hover1(style="background-color:#E8E8E8;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
-            img(src='@/assets/curso/tema2/8.svg')
+            img(src='@/assets/curso/tema2/8.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Mensaje
         p(style="color:#12263F;") Lo que la empresa turística quiere transmitir en la comunicación
       .tarjeta.color-acento-botones.p-4.text-center.tarjeta_hover.hover2(style="background-color:#E8E8E8;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
-            img(src='@/assets/curso/tema2/9.svg')
+            img(src='@/assets/curso/tema2/9.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Emisor
         p(style="color:#12263F;") La empresa turística o la persona encargada de elaborar el mensaje
       .tarjeta.color-acento-botones.p-4.text-center.tarjeta_hover.hover3(style="background-color:#E8E8E8;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
-            img(src='@/assets/curso/tema2/10.svg')
+            img(src='@/assets/curso/tema2/10.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Canal
         p(style="color:#12263F;") El medio que utiliza para transmitir el mensaje como por ejemplo el sitio web, red social, televisión, etc.
       .tarjeta.color-acento-botones.p-4.text-center.tarjeta_hover.hover4(style="background-color:#E8E8E8;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
-            img(src='@/assets/curso/tema2/11.svg')
+            img(src='@/assets/curso/tema2/11.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Código
         p(style="color:#12263F;") Los signos que representan las ideas que la empresa quiere transmitir y que deben ser comprendidos por los usuarios.
       .tarjeta.color-acento-botones.p-4.text-center.tarjeta_hover.hover1(style="background-color:#E8E8E8;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
-            img(src='@/assets/curso/tema2/12.svg')
+            img(src='@/assets/curso/tema2/12.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Contexto
         p(style="color:#12263F;") La situación en la que se transmite el mensaje y que, de acuerdo con este, puede generar diferentes interpretaciones.
       .tarjeta.color-acento-botones.p-4.text-center.tarjeta_hover.hover2(style="background-color:#E8E8E8;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
-            img(src='@/assets/curso/tema2/13.svg')
+            img(src='@/assets/curso/tema2/13.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Objetivo
         p(style="color:#12263F;") Lo que la empresa turística pretende generar en los usuarios con el mensaje.
       .tarjeta.color-acento-botones.p-4.text-center.tarjeta_hover.hover3(style="background-color:#E8E8E8;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
-            img(src='@/assets/curso/tema2/14.svg')
+            img(src='@/assets/curso/tema2/14.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Receptor
         p(style="color:#12263F;") El o los usuarios que reciben el mensaje.
     
@@ -104,9 +104,9 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Se hace un llamado a la acción para que el aprendiz pueda observar el video llamado: #[strong #[em “Capcut”]] en el que podrá identificar las bondades de #[em Capcut] en el diseño gráfico:
+            p.mb-0 Te invito aprendiz a observar el video llamado: #[strong #[em “Capcut”]] en el que podrá identificar las bondades de #[em Capcut] en el diseño gráfico:
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.YouTube.com/watch?v=Ngv9Q--VLBA&t=3s" target="_blank")
               span Ver video
@@ -121,7 +121,7 @@
       ImagenInfograficaB.infografia1.color-secundario
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/tema2/15.svg' data-aos="zoom-in-up")
+            img(src='@/assets/curso/tema2/15.svg' data-aos="zoom-in-up" alt="Imagen decorativa")
         div(x="47%" y="14%" tooltip="Calidad" numero="1")
           h5.text-white Calidad
           p.text-white El video debe ser lo suficientemente brillante y el sonido, el corte o la transición adecuados son apenas perceptibles.
@@ -136,14 +136,14 @@
           p.text-white La duración mínima es de 40 segundos y la duración máxima es de 4 minutos.
         div(x="84%" y="79%" tooltip="Accesibilidad" numero="5")
           h5.text-white Accesibilidad
-          p.text-white Para comenzar a implementar esta estrategia de marketing, te recomendamos que le des a tus usuarios acceso gratuito a tus videos. 
+          p.text-white Para comenzar a implementar esta estrategia de #[em.text-white marketing], te recomendamos que le des a tus usuarios acceso gratuito a tus videos. 
     
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FFECBE;border-radius:15px;")
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             p.mb-0 Te invito a observar el video llamado: #[strong #[em “Creación de video”]] en el que podrá identificar elementos claves en la creación de videos:
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
@@ -155,7 +155,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             p.mb-0 Te invito a observar el video llamado: #[strong “Conceptualización del desarrollo multimedia y #[em web]: introducción”] en el que podrá elementos generales a atender en el desarrollo multimedia de contenidos:
           .col-lg-3.col-md-3.text-center(style="place-self:center;")

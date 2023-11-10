@@ -244,7 +244,7 @@ export default {
       {
         nombreRuta: 'tema8',
         numero: '8',
-        titulo: '<em>Big Data marketing</em>',
+        titulo: '<em>Big data marketing</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -254,7 +254,7 @@ export default {
           },
           {
             numero: '8.2',
-            titulo: ' Características del <em>Big data marketing</em>',
+            titulo: ' Características del <em>big data marketing</em>',
             hash: 't_8_2',
           },
         ],
@@ -262,7 +262,7 @@ export default {
       {
         nombreRuta: 'tema9',
         numero: '9',
-        titulo: '<em>PQRS</em>',
+        titulo: 'PQRS',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -326,175 +326,167 @@ export default {
   complementario: [
     {
       tema: 'Fundamentos de diseño gráfico',
-      referencia: 'Hassler Castro (2020) Validación cruzada. [Video]. YouTube.',
+      referencia:
+        'Hassler Castro. (2020). Validación cruzada. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/B9cfaD721Tk',
     },
     {
-      tema: '<em>Big data</em>',
-      referencia:
-        'Ortiz, G. B. (2018). Verificación y validación de modelos <em>machine learning</em> usados para predecir y analizar la calidad del software desarrollado en IBM RPG.',
-      tipo: 'Artículo',
-      link:
-        'https://www.researchgate.net/publication/329196848_VERIFICACION_Y_VALIDACION_DE_MODELOS_MACHINE_LEARNING_USADOS_PARA_PREDECIR_Y_ANALIZAR_LA_CALIDAD_DEL_SOFTWARE_DESARROLLADO_EN_IBM_RPG',
-    },
-    {
       tema: 'Seguridad de la información',
-      referencia: 'https://normaiso27001.es/. QUE ES ISO 27001',
+      referencia: 'ISO 2701. (s.f.). NORMA ISO 27001.',
       tipo: 'Artículo',
       link: 'https://normaiso27001.es/',
     },
     {
       tema: 'Seguridad de la información',
       referencia:
-        'Ministerio TIC Colombia (2021) Normatividad de seguridad y privacidad de la información. [Video]. YouTube.',
+        'Ministerio TIC Colombia. (2021). Normatividad de seguridad y privacidad de la información. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/D5bHKmSwwUQ',
     },
     {
       tema: 'Fundamentos de diseño gráfico',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). Reglas básicas para el diseño. [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Reglas básicas para el diseño. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.YouTube.com/watch?v=Tl7FBNujWyI',
     },
     {
       tema: 'Fundamentos de diseño gráfico',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). Psicología del color: significado de colores en la publicidad. [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Psicología del color: significado de colores en la publicidad. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.YouTube.com/watch?v=UWSe5bCGNhs',
     },
     {
       tema: 'Herramientas y técnicas de elaboración de piezas gráficas',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). Figma. [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Figma. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.YouTube.com/watch?v=p2P3ETt_hcs&t=5s',
     },
     {
       tema: 'Herramientas y técnicas de elaboración de piezas gráficas',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). Creación de marca. [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Creación de marca. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.YouTube.com/watch?v=3RHnB9izZ_8',
     },
     {
       tema: 'Herramientas y técnicas de elaboración de piezas gráficas',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). Creación de piezas. [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Creación de piezas. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.YouTube.com/watch?v=VDC5rltd8Vw&t=61s',
     },
     {
       tema: 'Herramienta para la creación de audio',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). Conoce que es el Audacity. [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Conoce que es el Audacity. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.YouTube.com/watch?v=66cRVRhTWf4',
     },
     {
       tema: 'Herramienta para la creación de audio',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). Creación de audio. [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Creación de audio. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.YouTube.com/watch?v=cgqq8gDEPHM',
     },
     {
       tema: 'Comunicación visual',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). Capcut. [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Capcut. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.YouTube.com/watch?v=Ngv9Q--VLBA&t=3s',
     },
     {
       tema: 'Creación de video',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). Creación de video. [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Creación de video. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.YouTube.com/watch?v=erk3tP-avF8',
     },
     {
       tema: 'Creación de video',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). Conceptualización del desarrollo multimedia y web: introducción. [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Conceptualización del desarrollo multimedia y web: introducción. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.YouTube.com/watch?v=i74TnksLTcs',
     },
     {
       tema: 'Mapa de contenidos',
       referencia:
-        'InboundCycle - Marketing y ventas inbound. (2021) Content Mapping o Mapa de Contenidos: ¿qué es? [Video]. YouTube.',
+        'InboundCycle - Marketing y ventas inbound.. (2021). <em>Content Mapping</em> o Mapa de Contenidos: ¿qué es? [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.YouTube.com/watch?v=ct05j0hGTNw&t',
     },
     {
       tema: 'Identificación de audiencias',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2020). Buyer persona y plan de comunicación digital. [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2020). <em>Buyer</em> persona y plan de comunicación digital. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.YouTube.com/watch?v=NtXnXMx6TcQ',
     },
     {
       tema: 'Segmentación basada en la plataforma',
       referencia:
-        'MES academy (2017). ¿Cómo definir tu audiencia en la estrategia de Marketing digital? Lección 6. [Video]. YouTube.',
+        'MES academy. (2017). ¿Cómo definir tu audiencia en la estrategia de Marketing digital? Lección 6. [Video]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.YouTube.com/watch?v=p2P3ETt_hcs&t=5s',
+      link: 'https://www.youtube.com/watch?v=kWr3fGMHYyI',
     },
     {
       tema: 'Técnicas de búsqueda',
-      referencia:
-        'Inteligencia Artificial-Mecatrónica UX (2020). Inteligencia Artificial-Mecatrónica UX. [Video]. YouTube.',
+      referencia: 'Mecatrónica UX. (2020). Búsqueda por amplitud o anchura.',
       tipo: 'Video',
       link: 'https://youtu.be/dfvgNztUhrc',
     },
     {
       tema: 'Técnicas de búsqueda',
       referencia:
-        'Diego Torre (2020). Búsqueda en Profundidad. [Video]. YouTube.',
+        'Diego Torre. (2020). Búsqueda en Profundidad. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/UYtnHmls2ec',
     },
     {
       tema: 'Clasificación de datos',
       referencia:
-        'Flavio Palma (2018). Clasificación de Datos – Estadística. [Video]. YouTube.',
+        'Flavio Palma. (2018). Clasificación de Datos – Estadística. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/zpUuZuzQqWI',
     },
     {
       tema: 'Seguridad de la información',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). Seguridad de la información. [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Seguridad de la información. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/OC8x73OfV6s',
     },
     {
       tema: 'Seguridad de la información',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2022). Controles y estándares para el manejo de la seguridad de la información. [Video].',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Controles y estándares para el manejo de la seguridad de la información. [Video].',
       tipo: 'Video',
       link: 'https://youtu.be/n6Dffo75ts0',
     },
     {
       tema: 'Seguridad de la información',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2022). Firewall. [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Firewall. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/HcQtLHiepto',
     },
     {
       tema: 'Datos estructurados',
       referencia:
-        'Weborganico - Javier Cantero (2021). ¿Qué son los datos estructurados (schema) y como nos ayuda al SEO? [Video]. YouTube.',
+        'Weborganico - Javier Cantero. (2021). ¿Qué son los datos estructurados (<em>schema</em>) y como nos ayuda al SEO? [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/imB0TP1rIsA',
     },
     {
       tema: 'PQRS',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2022). Atención PQR: introducción. [Video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Atención PQR: introducción. [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/PSiBtkl75Hc',
     },
@@ -518,40 +510,47 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'A, D. (2021). <em>Hostinger Tutoriales</em>.',
-      link: 'https://www.hostinger.co/tutoriales/como-crear-una-pagina-web/',
+      referencia:
+        'A, D. (2021). <em>Cómo crear una página web paso a paso – Guía completa</em>. ',
+      link: 'https://www.hostinger.co/tutoriales/como-crear-una-pagina-web/ ',
     },
     {
-      referencia: 'Bello, E. (s.f.). <em>IEBS Business School</em>',
+      referencia:
+        'Bello, E. (s.f.). <em>Qué es la analítica web, para qué sirve y principales herramientas</em>. ',
       link:
-        'https://www.iebschool.com/blog/herramientas-analisis-web-analitica-usabilidad/',
+        'https://www.iebschool.com/blog/herramientas-analisis-web-analitica-usabilidad',
     },
     {
-      referencia: 'Cabrera, M. (2017). <em>Nube digital mx</em>.',
+      referencia:
+        'Cabrera, M. (2017). <em>¿Qué es un certificado de seguridad y de qué tipos hay?</em> ',
       link:
-        'https://www.nubedigital.mx/flexo/post/que-es-un-certificado-de-seguridad-y-de-que-tipos-hay',
+        'https://www.nubedigital.mx/flexo/post/que-es-un-certificado-de-seguridad-y-de-que-tipos-hay ',
     },
     {
-      referencia: 'Capella, M. (2020). <em>Inboundcycle</em>.',
+      referencia:
+        'Capella, M. (2020). <em>Posicionamiento web o SEO: cómo posicionar tu página web en Google en 9 pasos</em>. ',
       link:
-        'https://www.inboundcycle.com/blog-de-inbound-marketing/como-posicionar-mi-web-5-pasos-para-ser-top-1-en-google',
+        'https://www.inboundcycle.com/blog-de-inbound-marketing/como-posicionar-mi-web-5-pasos-para-ser-top-1-en-google ',
     },
     {
-      referencia: 'Content, R. (2019). <em>Rock Content</em>.',
-      link: 'https://rockcontent.com/es/blog/que-son-las-cookies/',
+      referencia:
+        'Coppola, M. E. (s.f.). <em>Qué es un diseño responsive: características y ejemplos</em>. ',
+      link: 'https://blog.hubspot.es/marketing/diseno-responsive ',
     },
     {
-      referencia: 'Coppola, M. E. (s.f.). <em>Hubspot</em>.',
-      link: 'https://blog.hubspot.es/marketing/diseno-responsive',
-    },
-    {
-      referencia: 'Iberdrola. (s.f.). <em>Iberdrola</em>.',
-      link: 'https://www.iberdrola.com/innovacion/que-es-accesibilidad-web',
-    },
-    {
-      referencia: 'Inboundcycle. (s.f.). <em>Inboundcycle</em>.',
+      referencia:
+        'Fatino, J. (2022). <em>¿Qué es el desarrollo web?: Guía para detectar el desarrollador web que vive en ti</em>. ',
       link:
-        'https://www.inboundcycle.com/diccionario-marketing-online/usabilidad-web',
+        'https://www.crehana.com/co/blog/desarrollo-web/que-es-desarrollo-web/ ',
+    },
+    {
+      referencia: 'Iberdrola. (s.f.).<em>Iberdrola</em>. ',
+      link: 'https://www.iberdrola.com/innovacion/que-es-accesibilidad-web ',
+    },
+    {
+      referencia: 'Inboundcycle. (s.f.). <em>Accesibilidad web</em>. ',
+      link:
+        'https://www.inboundcycle.com/diccionario-marketing-online/usabilidad-web ',
     },
     {
       referencia:
@@ -560,18 +559,18 @@ export default {
     },
     {
       referencia:
-        'marketing, D. d. (2017). <em>Ser o no ser marketing online. Ser o no ser marketing online.</em>',
-      link:
-        'https://www.snsmarketing.es/blog/que-estructura-debe-de-tener-una-pagina-web/',
+        'Rock Content. (2019). <em>¿Qué son las cookies y para qué sirven en Internet?</em> ',
+      link: 'https://rockcontent.com/es/blog/que-son-las-cookies/',
     },
     {
-      referencia: 'Martinez, L. (2021). <em>crehana</em>.',
+      referencia:
+        'Ser o no ser marketing online. (2017). <em>¿Qué estructura debe de tener una página web?</em> ',
       link:
-        'https://www.crehana.com/co/blog/desarrollo-web/que-es-desarrollo-web/',
+        'https://www.snsmarketing.es/blog/que-estructura-debe-de-tener-una-pagina-web/ ',
     },
     {
-      referencia: 'Techlib. (s.f.). <em>Techlib</em>.',
-      link: 'https://techlib.net/definition/web_development.html',
+      referencia: 'TechLib. (s.f.). <em>Desarrollo Web</em>. ',
+      link: 'https://techlib.net/definition/web_development.html ',
     },
   ],
   creditos: [
@@ -579,15 +578,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del Ecosistema',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable de Línea de Producción',
+          nombre: 'Liliana Victoria Morales Gualdrón',
+          cargo: 'Responsable de línea de producción',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -610,11 +609,6 @@ export default {
           centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
         },
         {
-          nombre: 'Alix Cecilia Chinchilla Rueda',
-          cargo: 'Asesor Metodológico',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
-        },
-        {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Responsable Equipo Desarrollo Curricular',
           centro:
@@ -622,8 +616,20 @@ export default {
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
-          cargo: 'Corrector de estilo',
+          cargo: 'Corrección de estilo',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Asesor metodológica y pedagógica ',
+          centro:
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
+        },
+        {
+          nombre: 'Nelly Parra Guarín',
+          cargo: 'Adecuación instruccional',
+          centro:
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -631,28 +637,22 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
+          nombre: 'Adriana Marcela Suarez Eljure',
+          cargo: 'Diseño web e ilustración',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
+          nombre: 'Luis Jesús Pérez Madariaga',
+          cargo: 'Desarrollo Fullstack',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: '',
+          cargo: 'Animación y producción audiovisual',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -660,22 +660,23 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo:
+            'Validación de recursos educativos digitales y vinculación LMS',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          nombre: 'Leyson Fabián Castaño Pérez',
+          cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de Gestión De Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },

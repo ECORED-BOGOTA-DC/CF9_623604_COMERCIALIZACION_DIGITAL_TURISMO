@@ -5,44 +5,44 @@
     .titulo-principal.color-acento-contenido(data-aos="zoom-in-up")
       .titulo-principal__numero
         span 8
-      h1 #[em Big Data marketing]
+      h1 #[em Big data marketing]
     
     p(data-aos="zoom-in") El #[em big data marketing] es una herramienta que utiliza las empresas para responder rápidamente y predecir la demanda de los consumidores al conocer sus necesidades y requerimientos de manera directa, acortando los tiempos de entrega y construyendo una cadena de valor, así esta herramienta, analiza grandes cantidades de datos para desarrollar estrategias que mejoren el proceso de #[em marketing]. Estos son algunos usos más comunes:
 
     .row.mt-4(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Creación de campañas publicitarias más precisas.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Centrarse en crear estrategias de #[em marketing] personalizadas y adaptadas al segmento de cada cliente.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Toma de decisiones en tiempo real.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Detección de inconsistencias.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Ayuda a mantener la relación empresa-cliente.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Analiza y ayuda a mantener un control sobre los costes.
     
@@ -58,7 +58,7 @@
     Separador.mt-5
 
     .titulo-segundo
-      h2#t_8_2 8.2  Características del Big data marketing
+      h2#t_8_2 8.2  Características del #[em big data marketing]
     
     p(data-aos="zoom-in") Con el #[em marketing] de #[em big data], estas son características importantes:
 
@@ -80,10 +80,12 @@
           p.mb-0 Se trata de la capacidad de una organización para utilizar eficazmente la gran cantidad de datos que maneja, por lo que está relacionada con la innovación del equipo de trabajo y el uso de la tecnología. Las empresas analizan, seleccionan y monitorean la información para comprender mejor los mercados en los que operan, sus clientes, y de esta forma desarrollar estrategias efectivas. Aquí es importante filtrar información y seleccionar cuidadosamente los atributos y factores que pueden predecir los resultados que más le interesan a su empresa. El secreto del éxito radica en descubrir las relaciones entre variables ocultas.
       .tarjeta.color-secundario.p-4(titulo="Visualización de los datos" style="background-color:#FFF4E1;")
         .row
-          p.mb-0 Se refiere a la forma en que se muestran los datos. Una vez que los datos han sido procesados, deben presentarse visualmente de una manera legible y accesible para encontrar patrones o insights ocultos de interés. Para comprender los datos, existen herramientas de visualización que lo ayudan a comprender los datos gráficamente y desde una perspectiva contextual como #[em Google Data Studio, Power BI, Tableu], etc. 
+          p.mb-0 Se refiere a la forma en que se muestran los datos. Una vez que los datos han sido procesados, deben presentarse visualmente de una manera legible y accesible para encontrar patrones o #[em insights] ocultos de interés. Para comprender los datos, existen herramientas de visualización que lo ayudan a comprender los datos gráficamente y desde una perspectiva contextual como Google Data Studio, Power BI, Tableu, etc. 
       .tarjeta.color-secundario.p-4(titulo="Valor de los datos" style="background-color:#FFF4E1;")
         .row
           p.mb-0 Es la transformación de los datos en información, que a su vez se convierte en conocimiento, que genera una acción o decisión. Los líderes empresariales pueden tomar mejores decisiones basadas en esos datos. No todos los datos que visualizamos se traducen en acciones y decisiones. Para ello, se requiere tecnología aplicada. Por ejemplo, publicar en una red social que pueda medir emociones positivas o negativas utilizando un algoritmo de análisis de redes sociales o una herramienta que pueda extraer información utilizando tecnología de procesamiento de lenguaje natural. 
+    
+    p.mt-5(data-aos="zoom-in") En resumen, el #[em big data] es una combinación de estas siete características que permite a las empresas convertirse en competidores que contribuyen a la rentabilidad, la visualización y el éxito garantizado, así como obtener una ventaja competitiva. 
 
 
 

@@ -26,7 +26,7 @@
     ImagenInfograficaB.infografia1.color-secundario.mt-5
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/tema7/2.svg' data-aos="zoom-in-up")
+          img(src='@/assets/curso/tema7/2.svg' data-aos="zoom-in-up" alt="magen que muestra un grafico con 4 puntos de características de inteligencia en los negocios, los cuales se relacionan en la parte inferior.")
       div(x="29%" y="34%" tooltip="Visual" numero="1")
         p.text-white Es muy visual e intuitivo, ya que proporciona a los usuarios un modelo gráfico simple y fácil de entender para presentar los resultados. Esto permite que estas herramientas simplifican lo que puede parecer complicado en la ciencia de datos. 
       div(x="86%" y="26%" tooltip="Datos" numero="2")
@@ -47,7 +47,7 @@
       .row
         .col-lg-4.mb-4.mb-md-0.col-md-6
           figure
-            img(src="@/assets/curso/tema7/3.svg" data-aos="zoom-in-right")
+            img(src="@/assets/curso/tema7/3.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
         .col-lg-8.col-md-6
           .cajon.color-primario.p-4.h-100.d-flex.flex-wrap.align-content-center(style="background-color:#FFF7E5;box-shadow:0px 4px 8px rgba(0,0,0,.1);" data-aos="zoom-in-left")
             p.mb-0  Los datos estructurados han sido durante mucho tiempo el método principal para almacenar datos. Esto se debe a que las tecnologías disponibles facilitan la lectura, pero con el tiempo, los datos no estructurados se están convirtiendo en una parte cada vez más importante de los análisis que realizan las empresas. Cada vez más #[em software] apoya a las empresas con esta tarea.
@@ -62,69 +62,71 @@
     .row.mt-4(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
-        p.mb-0 Páginas #[em web].
+        p.mb-0 Páginas web.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Videos.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Comentarios de usuarios en #[em blogs] y sitios de redes sociales.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Notas.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Informes.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Respuestas de la encuesta.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Documentos (Word, PPT, PDF. texto).
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Textos no estructurados.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Transcripciones de llamadas de atención al cliente.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Imágenes en Internet (JPEG, PNG, GIF, y otros).
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Grabación de medios.
+    
+    p.mt-5(data-aos="fade-right") Los datos no estructurados están literalmente en todas partes y ocupan mucho espacio de almacenamiento, ya que la mayor parte viene en forma de archivos grandes como video, audio e imágenes, por lo que ocupa la mayor parte del gráfico circular de almacenamiento, asimismo, retener o mantener los datos no estructurados cuesta mucho más que los datos estructurados con una arquitectura compacta y ordenada.
     
     .col-xl-8.m-auto.mt-5.col-lg-10
       .cajon.p-4.color-acento-contenido(style="background-color:#CDF0E4;" data-aos="flip-up")
@@ -136,24 +138,24 @@
       h2#t_7_4 7.4 Datos semiestructurados
     
     p(data-aos="zoom-in") Los datos semiestructurados no tienen un esquema definido. No se ajustan al formato de tabla/fila/columna, pero están organizados mediante etiquetas o "etiquetas" para que puedan agruparse para crear una jerarquía. Estos también se conocen como no relacionales o #[em NoSQL].  
-    p.mt-4(data-aos="zoom-in") Este tipo de datos representa alrededor del 510% del volumen de datos del mundo. Sin embargo, desde un punto de vista comercial, existen casos de uso muy relevantes para la infraestructura de #[em big data] y las aplicaciones web en tiempo real. Algunos servicios muy conocidos basados en este tipo de datos son los sistemas de recomendación de #[em Amazon o] los servicios de #[em LinkedIn]. Los ejemplos más conocidos de datos semiestructurados son: 
+    p.mt-4(data-aos="zoom-in") Este tipo de datos representa alrededor del 510 % del volumen de datos del mundo. Sin embargo, desde un punto de vista comercial, existen casos de uso muy relevantes para la infraestructura de #[em big data] y las aplicaciones web en tiempo real. Algunos servicios muy conocidos basados en este tipo de datos son los sistemas de recomendación de Amazon o los servicios de LinkedIn. Los ejemplos más conocidos de datos semiestructurados son: 
 
     .row.mt-5
       .col-lg.mb-4.mb-lg-0
         .h-100.p-4.p-md-5.pt-4.text-center(style="background-color:#D9ECFF;border-radius:20px;box-shadow:0px 4px 9px rgba(0,0,0,.1);" data-aos="flip-up")
           figure.text-center
-            img(src="@/assets/curso/tema7/4.svg" style="display:inline;max-width:140px;")
-          p.mt-4.mb-0 Correos electrónicos que le permiten ordenar y buscar palabras clave con metadatos nativos un lenguaje de marcado #[em XML] que permite la universalización de las estructuras de datos, el almacenamiento y la transmisión en la #[em Web] con una estructura flexible basada en etiquetas.
+            img(src="@/assets/curso/tema7/4.svg" style="display:inline;max-width:140px;" alt="Imagen decorativa")
+          p.mt-4.mb-0 Correos electrónicos que le permiten ordenar y buscar palabras clave con metadatos nativos un lenguaje de marcado XML que permite la universalización de las estructuras de datos, el almacenamiento y la transmisión en la web con una estructura flexible basada en etiquetas.
       .col-lg.mb-4.mb-lg-0
         .h-100.p-4.p-md-5.pt-4.text-center(style="background-color:#D9ECFF;border-radius:20px;box-shadow:0px 4px 9px rgba(0,0,0,.1);" data-aos="flip-up")
           figure.text-center
-            img(src="@/assets/curso/tema7/5.svg" style="display:inline;max-width:140px;")
-          p.mt-4.mb-0 El estándar abierto #[em JSON] (#[em Notación de objetos de JavaScript]) es otro formato de intercambio de datos semiestructurados que se usa ampliamente cuando se transfieren datos entre aplicaciones #[em web] y servidores. 
+            img(src="@/assets/curso/tema7/5.svg" style="display:inline;max-width:140px;" alt="Imagen decorativa")
+          p.mt-4.mb-0 El estándar abierto JSON (Notación de objetos de JavaScript) es otro formato de intercambio de datos semiestructurados que se usa ampliamente cuando se transfieren datos entre aplicaciones web y servidores. 
       .col-lg.mb-4.mb-lg-0
         .h-100.p-4.p-md-5.pt-4.text-center(style="background-color:#D9ECFF;border-radius:20px;box-shadow:0px 4px 9px rgba(0,0,0,.1);" data-aos="flip-up")
           figure.text-center
-            img(src="@/assets/curso/tema7/6.svg" style="display:inline;max-width:140px;")
-          p.mt-4.mb-0 Las bases de datos #[em NoSQL] que no separan el esquema de los datos en sí son más flexibles. Puede usarlos para almacenar información que no se ajusta bien a los formatos de registro/tabla, como ejemplo, el texto de longitud variable. También facilitan el intercambio de datos entre distintas bases de datos.
+            img(src="@/assets/curso/tema7/6.svg" style="display:inline;max-width:140px;" alt="Imagen decorativa")
+          p.mt-4.mb-0 Las bases de datos NoSQL que no separan el esquema de los datos en sí son más flexibles. Puede usarlos para almacenar información que no se ajusta bien a los formatos de registro/tabla, como ejemplo, el texto de longitud variable. También facilitan el intercambio de datos entre distintas bases de datos.
     
     Separador.mt-5
 
@@ -167,7 +169,7 @@
         .row
           .col-md-6.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src='@/assets/curso/tema7/7.png' style="display:inline;max-width:430px;")
+              img(src='@/assets/curso/tema7/7.png' style="display:inline;max-width:430px;" alt="Imagen decorativa")
           .col-md-6(style="place-self:center;")
             h5 Ventas
             p Determina las ganancias y los ingresos, como también centrarse en áreas específicas o eliminarlas por completo, al analizar datos como:  canal de distribución, rango de precios, área geográfica, tipo de cliente y proveedor, si se comprende estos números, la empresa puede maximizarlos. 
@@ -175,7 +177,7 @@
         .row
           .col-md-6.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src='@/assets/curso/tema7/8.png' style="display:inline;max-width:430px;")
+              img(src='@/assets/curso/tema7/8.png' style="display:inline;max-width:430px;" alt="Imagen decorativa")
           .col-md-6(style="place-self:center;")
             h5 Finanzas
             p Proporciona datos en forma de informes de flujo de caja, informes de producción y análisis de variación planificada, dado que:
@@ -193,7 +195,7 @@
         .row
           .col-md-6.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src='@/assets/curso/tema7/9.png' style="display:inline;max-width:430px;")
+              img(src='@/assets/curso/tema7/9.png' style="display:inline;max-width:430px;" alt="Imagen decorativa")
           .col-md-6(style="place-self:center;")
             h5 #[em Marketing]
             p Existen innumerables formas de realizar un seguimiento de la actividad de #[em marketing]. A diferencia de otras áreas comerciales que requieren informes, algunas empresas ni siquiera son conscientes de las oportunidades que ofrece la tecnología en #[em marketing]. Los datos internos se pueden recopilar a partir de estadísticas de tráfico del sitio web, informes telefónicos, códigos de promoción y más.
@@ -201,7 +203,7 @@
         .row
           .col-md-6.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src='@/assets/curso/tema7/10.png' style="display:inline;max-width:430px;")
+              img(src='@/assets/curso/tema7/10.png' style="display:inline;max-width:430px;" alt="Imagen decorativa")
           .col-md-6(style="place-self:center;")
             h5 Talento humano
             p Recopila datos como: la retención, los retrasos y el ausentismo de los empleados para determinar si su empresa debe preocuparse por la rotación. Asimismo, revisar sus salarios para determinar si el paquete de compensación que ofrecen es la opción correcta.

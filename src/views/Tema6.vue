@@ -15,7 +15,7 @@
         p.mt-4(data-aos="zoom-in") A continuación, se verá la historia de la #[em big data]:
       .col-lg
         figure
-          img(src="@/assets/curso/tema6/1.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema6/1.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     figure.mt-5
       .video
@@ -33,31 +33,31 @@
         .row.mt-4(data-aos="zoom-in")
           .col-auto.pe-0(style="place-self:center;")
             figure
-              img(src="@/assets/curso/tema6/2.svg")
+              img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
           .col(style="place-self:center;")
             p.mb-0 #[strong Conjunto de estados:] todas las configuraciones posibles en el dominio.
         .row.mt-2(data-aos="zoom-in")
           .col-auto.pe-0(style="place-self:center;")
             figure
-              img(src="@/assets/curso/tema6/2.svg")
+              img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
           .col(style="place-self:center;")
             p.mb-0 #[strong Estados iniciales:] estados desde los que se parte.
         .row.mt-2(data-aos="zoom-in")
           .col-auto.pe-0(style="place-self:center;")
             figure
-              img(src="@/assets/curso/tema6/2.svg")
+              img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
           .col(style="place-self:center;")
             p.mb-0 #[strong Estados finales:] las soluciones del problema.
         .row.mt-2(data-aos="zoom-in")
           .col-auto.pe-0(style="place-self:center;")
             figure
-              img(src="@/assets/curso/tema6/2.svg")
+              img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
           .col(style="place-self:center;")
             p.mb-0 #[strong Operadores:] se aplican para pasar de un estado a otro.
         .row.mt-2(data-aos="zoom-in")
           .col-auto.pe-0(style="place-self:center;")
             figure
-              img(src="@/assets/curso/tema6/2.svg")
+              img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
           .col(style="place-self:center;")
             p.mb-0 #[strong Solucionador:] mecanismo que permite evolucionar de un estado a otro mediante un algoritmo aplicando los siguientes pasos:
         ol.lista-ol--cuadro.mt-4.ps-md-4
@@ -75,7 +75,7 @@
             | Comprobar si el resultado obtenido es un estado final (es una solución del problema) sino ir al paso 1.
       .col-lg
         figure
-          img(src="@/assets/curso/tema6/3.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema6/3.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     p.mt-5(data-aos="zoom-in") Existen algunos métodos de búsqueda como:
 
@@ -91,19 +91,19 @@
     .row.mt-4(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
-        p.mb-0 Incluso si hay una solución, no garantiza que se encontrará una solución 100% efectiva.
+        p.mb-0 Incluso si hay una solución, no garantiza que se encontrará una solución 100 % efectiva.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Cuando encuentran una solución, no está claro si tiene las mejores características. 
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0  En algunos casos (normalmente no predeterminados), puede encontrar una solución (razonablemente buena) en un tiempo razonable.
     
@@ -117,18 +117,18 @@
     .row.mt-4
       .col-lg-5.mb-4.mb-md-0.col-md-6
         figure
-          img(src="@/assets/curso/tema6/4.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema6/4.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-7.col-md-6
         .row(data-aos="zoom-in")
           .col-auto.pe-0
             figure
-              img.mt-2(src="@/assets/curso/tema6/2.svg")
+              img.mt-2(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
           .col
-            p.mb-0 Los datos estructurados consisten en datos organizados en tablas, que se pueden integrar fácilmente en una base de datos y desde allí en software analítico y otras aplicaciones especializadas. 
+            p.mb-0 Los datos estructurados consisten en datos organizados en tablas, que se pueden integrar fácilmente en una base de datos y desde allí en #[em software] analítico y otras aplicaciones especializadas. 
         .row.mt-2(data-aos="zoom-in")
           .col-auto.pe-0
             figure
-              img.mt-2(src="@/assets/curso/tema6/2.svg")
+              img.mt-2(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
           .col
             p.mb-0 Los datos no estructurados son datos sin formato, el tipo de datos que se encuentran en documentos de texto sin formato con nombres, fechas y otra información dispersa en párrafos aleatorios. Estos son algunos ejemplos de datos no estructurados: 
         ul.lista-ul.mt-4.ps-md-4(data-aos="fade-up")
@@ -163,7 +163,7 @@
         p.mt-4(data-aos="zoom-in") Cada base de datos tiene una jerarquía de datos, pero normalmente el programa es diferente según el modelo de la base de datos, al organizar los datos en jerarquías separadas, puede agregarlos fácilmente a su base de datos o lenguaje de programación. Si un programador quiere agregar un nuevo juego para la consola a la base de datos del juego, puede ser difícil de organizar porque los desarrolladores de juegos suelen operar varias consolas diferentes al mismo tiempo. El seguimiento de la jerarquía le dirá exactamente dónde colocar estos nuevos datos.
       .col-md-6
         figure
-          img(src="@/assets/curso/tema6/6.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema6/6.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     Separador.mt-5
 
@@ -176,7 +176,7 @@
           p.mb-0 Las implementaciones de la gestión de información, especialmente la clasificación de datos, varían según el tipo de organización. La clasificación de datos le permite identificar y evaluar los datos de su organización y proporcionar un punto de partida común para la gobernanza. El proceso de clasificación de datos organiza los datos por confidencialidad e impacto comercial para identificar riesgos. Al clasificar sus datos, puede administrarlos de una manera que evite el robo o la pérdida de datos confidenciales o confidenciales.
       .col-lg
         figure
-          img(src="@/assets/curso/tema6/7.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema6/7.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     Separador.mt-5
 
@@ -188,26 +188,26 @@
         p(data-aos="zoom-in") La normalización es una técnica comúnmente utilizada en la preparación de datos de aprendizaje automático. El objetivo de la normalización es cambiar los valores en una columna numérica de un conjunto de datos para compartir una escala común sin distorsionar las diferencias en el rango de valores o perder información. Algunos algoritmos también requieren normalización para modelar correctamente los datos.
       .col-lg-5.col-md-6
         .cajon.p-4.color-acento-contenido(style="background-color:#CDF0E4;" data-aos="flip-up")
-          p.mb-0 Las jerarquías de datos se usan más comúnmente para catalogar los datos en una base de datos, pero también se pueden encontrar en otros esquemas de programación.
+          p.mb-0 La normalización resuelve estos problemas mediante la creación de nuevos valores que mantienen la distribución general y las relaciones de los datos de origen al tiempo que conserva los valores en la escala que se aplican a todas las columnas numéricas utilizadas en el modelo de datos.
 
     p.mt-4(data-aos="zoom-in") Un buen ejemplo de esto es la normalización de direcciones, especialmente de códigos postales. Esto es importante porque ayuda a enriquecer la base de datos a través de la geolocalización. Es tan importante cuando los clientes brindan información sobre su perfil directamente, como en un formulario, como en el caso del mapeo putativo de indicadores tipográficos o de comportamiento vinculados a su ubicación geográfica.
     p.mt-4(data-aos="zoom-in") En las primeras etapas de trabajo, la calidad de los datos es baja. La recopilación de datos reales sin estándares da como resultado datos incompletos, aislados, inexactos y poco saludables, es decir, algunos datos no se pueden utilizar para sacar conclusiones y mejorar las decisiones empresariales. Pero la solución es ir paso a paso en lugar de repetirlos. Aquí, se presentarán tres tecnologías de procesamiento de datos:
     .row.mt-4(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 #[strong #[em Data cleaning:]] limpieza de datos, eliminación el ruido de la maestra, resolviendo inconsistencias en los datos. 
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 #[strong #[em Data integration:]] cuando se procesan grandes cantidades de información, los datos se trasladan a una fuente de información centralizada para la empresa. Esto se llama un almacén de datos. 
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 #[strong #[em Data transformation:]] la transformación de datos permite la normalización de todo tipo de datos.
     
@@ -219,7 +219,7 @@
     .row
       .col-lg-4.mb-4.mb-md-0.col-md-6(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/8.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema6/8.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-8.col-md-6(style="place-self:center;")
         p(data-aos="zoom-in") La gestión de datos se ha convertido en un desafío debido al aumento significativo de datos no estructurados. Para el análisis, los datos deben convertirse a un formato legible por máquina. Sin embargo, la creciente importancia de la toma de decisiones basada en datos ha cambiado la forma en que los gerentes toman decisiones estratégicas. Las investigaciones muestran que las empresas que toman decisiones basadas en datos son entre un 5 y un 6 % más productivas, por ello, es importante utilizar herramientas para la extracción de datos. 
         p.mt-4(data-aos="zoom-in") Sin embargo, se puede definir la extracción de datos como: el proceso de extraer y recopilar datos de fuentes semiestructuradas y no estructuradas, como correo electrónico, documentos y formularios PDF, archivos de texto, redes sociales, códigos de barras e imágenes. ¿Cómo se realiza la extracción de datos no estructurados? Las herramientas de extracción de datos de clase empresarial le permiten usar datos comerciales entrantes de fuentes no estructuradas o semiestructuradas para el análisis de datos y la generación de informes.
@@ -230,39 +230,39 @@
     .row.mt-4(data-aos="zoom-in")
       .col-auto.pe-0
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col
         p.mb-0 Extraer datos e información de documentos de varios formatos como PDF, DOC, DOCX, TXT, RTF, entre otros.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col
         p.mb-0 Extracción de datos en tiempo real para análisis de macrodatos, en el que se extraiga información mediante flujos de trabajo automatizados para preparar los datos rápidamente a un #[em business intelligence]. 
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col
         p.mb-0 Plantillas reutilizables con #[em software] de extracción de informes, en el que el usuario construye su propia lógica de extracción. 
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col
         p.mb-0 Calidad de datos integrada y funcionalidad de limpieza de acuerdo con parámetros definidos por el usuario. 
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col
         p.mb-0 Interfaz de fácil utilización en el diseño de plantillas de extracción de datos. 
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col
-        p.mb-0 Exportar datos a destinos ampliamente utilizados como #[em SQL Server, Oracle, PostgreSQL] y varias herramientas de BI como #[em Tableau].
+        p.mb-0 Exportar datos a destinos ampliamente utilizados como SQL Server, Oracle, PostgreSQL y varias herramientas de BI como Tableau.
     
     Separador.mt-5
 
@@ -270,14 +270,14 @@
       h2#t_6_7 6.7  Técnicas de validación
     
     p(data-aos="zoom-in") El proceso de validación consiste en determinar si los resultados digitales que cuantifican las relaciones hipotéticas entre variables son aceptables como explicación de los datos. Una de las técnicas más utilizadas es la “validación cruzada". Este método también es un método de "remuestreo", que le permite evaluar un modelo con datos limitados. 
-    p.mt-4(data-aos="zoom-in") Antes de que se pueda realizar "CV" (#[em cross-validation]), se debe reservar algunos de los datos en la serie de datos de entrenamiento. Estos datos no se utilizarán para entrenar el modelo, pero se utilizarán más adelante para realizar pruebas y validaciones, este método se usa para comparar diferentes modelos y seleccionar el modelo más apropiado para un problema en particular. Esta técnica es más fácil de entender e implementar, además se sesga menos que otros métodos. En el siguiente artículo de #[em Microsoft] titulado “Modelo de validación cruzada” se podrá profundizar más en este método:
+    p.mt-4(data-aos="zoom-in") Antes de que se pueda realizar "CV" (#[em cross-validation]), se debe reservar algunos de los datos en la serie de datos de entrenamiento. Estos datos no se utilizarán para entrenar el modelo, pero se utilizarán más adelante para realizar pruebas y validaciones, este método se usa para comparar diferentes modelos y seleccionar el modelo más apropiado para un problema en particular. Esta técnica es más fácil de entender e implementar, además se sesga menos que otros métodos. En el siguiente artículo de Microsoft titulado “Modelo de validación cruzada” se podrá profundizar más en este método:
 
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FFECBE;border-radius:15px;")
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema6/9.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema6/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             p.mb-0 Te invito a leer el documento llamado: #[strong #[em “Modelo de validación cruzada”]] disponible en el enlace:
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
@@ -295,7 +295,7 @@
     .row.mt-4
       .col-lg-4.mb-4.mb-md-0.col-md-6
         figure
-          img(src="@/assets/curso/tema6/10.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema6/10.png" data-aos="zoom-in-right" alt="Imagen de persona trabajando en computador donde muestra en la parte posterior diferentes lugares del mundo señalados con seguridad de la información")
       .col-lg-8.col-md-6
         .cajon.p-4.color-acento-contenido(style="background-color:#CDF0E4;" data-aos="flip-up")
           p.mb-0 Por tanto, en la norma ISO/IEC 27001 y fue aprobada y publicada por la Organización Internacional de Normalización (ISO) y la Comisión Electrotécnica Internacional (IEC) en octubre de 2005, se definió la seguridad de la información como un conjunto de medios técnicos, organizativos y legales que permiten a una organización garantizar la confidencialidad, integridad y disponibilidad de un sistema de información, el cual es un activo que necesita más protección que limitan el acceso únicamente a las personas autorizadas, el cual debe considerar los tres tipos de información crítica, valiosa y sensible.
@@ -305,19 +305,19 @@
     .row.mt-4(data-aos="zoom-in")
       .col-auto.pe-0
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col
         p.mb-0 Promover las ventas.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col
         p.mb-0 Aumentar la confianza del cliente en los servicios prestados.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col
         p.mb-0 Brindar una imagen corporativa segura. 
     
@@ -328,7 +328,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             p.mb-0 Te invito a observar el video llamado: #[strong #[em “Controles y estándares para el manejo de la seguridad de la información”]].
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
@@ -343,7 +343,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             p.mb-0 Te invito a observar el video llamado: #[strong #[em “Firewall”]].
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
@@ -361,39 +361,40 @@
     .row.mt-4(data-aos="zoom-in")
       .col-auto.pe-0
         figure
-          img.mt-2(src="@/assets/curso/tema6/2.svg")
+          img.mt-2(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col
         p.mb-0 Información de una sola fuente. 
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0
         figure
-          img.mt-2(src="@/assets/curso/tema6/2.svg")
+          img.mt-2(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col
         p.mb-0 Información de calidad.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0
         figure
-          img.mt-2(src="@/assets/curso/tema6/2.svg")
+          img.mt-2(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col
         p.mb-0 La información como bien público.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0
         figure
-          img.mt-2(src="@/assets/curso/tema6/2.svg")
+          img.mt-2(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col
         p.mb-0 Información en tiempo real.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0
         figure
-          img.mt-2(src="@/assets/curso/tema6/2.svg")
+          img.mt-2(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col
         p.mb-0 La información como servicio.
 
     p.mt-4(data-aos="zoom-in") En el contexto de una organización, la gestión de la información se puede identificar como un área de toda responsabilidad relacionada con la obtención de la información correcta de la manera acertada, para las personas interesadas, al costo más idóneo y en el momento oportuno. Clarificación del lugar adecuado para el desarrollo del comportamiento correcto y todas estas operaciones. En este contexto, los objetivos principales de la gestión de la información son maximizar el valor y los beneficios del uso de la información, minimizar los costos de obtener, procesar y usar la información de manera eficaz, eficiente y rentable. 
     p.mt-4(data-aos="zoom-in") La gestión de la información permanece estrechamente relacionada con el campo de la gestión del conocimiento en el contexto de la organización, el cual se centra en los procesos relacionados con la preservación, procesamiento y difusión del conocimiento explícito que se muestra en los documentos, por tanto, debe garantizar:
 
-
-
+    figure.mt-5(data-aos="zoom-in")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 

@@ -5,18 +5,18 @@
     .titulo-principal.color-acento-contenido(data-aos="zoom-in-up")
       .titulo-principal__numero
         span 9
-      h1 #[em PQRS]
+      h1 PQRS
 
-    p(data-aos="zoom-in") El Sistema de Petición, Quejas, Reclamos y Sugerencias (#[em PQRS]) es una herramienta que permite conocer las inquietudes de nuestros clientes, este sistema se presenta como una oportunidad para mejorar y potencializar los servicios que brinda la empresa hacia la excelencia operativa.
+    p(data-aos="zoom-in") El Sistema de Petición, Quejas, Reclamos y Sugerencias (PQRS) es una herramienta que permite conocer las inquietudes de nuestros clientes, este sistema se presenta como una oportunidad para mejorar y potencializar los servicios que brinda la empresa hacia la excelencia operativa.
 
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FFECBE;border-radius:15px;")
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;")
+              img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito a observar el video llamado: #[strong #[em “Atención PQR: introducción”]] en el que podrá identificar software y herramientas para automatización de procesos en el diseño gráfico:
+            p.mb-0 Te invito a observar el video llamado: #[strong #[em “Atención PQR: introducción”]] en el que podrá identificar #[em software] y herramientas para automatización de procesos en el diseño gráfico:
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://youtu.be/PSiBtkl75Hc" target="_blank")
               span Ver video
@@ -65,37 +65,37 @@
     .row.mt-4(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Accesible: debe permitir a los clientes iniciar fácilmente el proceso de creación de solicitudes, quejas, facturas y sugerencias.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Personalizable: definir un flujo de gestión de acuerdo con las necesidades de cada organización 
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Colaborativo: el sistema debe permitir la participación de todos los miembros de la organización que participen en la tramitación de las PQRS.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Comunicación: se implanta el correspondiente sistema PQRS y funciona de forma bidireccional, al permitir que los interesados que inician la creación de PQRS conozcan el estado de su solicitud.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Trazabilidad: debe reflejar qué controles se han realizado a las PQRS 
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema6/2.svg")
+          img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
         p.mb-0 Tiempo real: toda la información está disponible en tiempo real para evitar errores.
     

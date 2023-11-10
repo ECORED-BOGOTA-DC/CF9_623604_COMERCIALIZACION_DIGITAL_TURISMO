@@ -11,7 +11,7 @@
     .row
       .col-lg-5.mb-4.mb-lg-0(style="place-self:center;")
         figure.text-center.col-md-9.m-auto.col-lg-12
-          img(src="@/assets/curso/intro1.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/intro1.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-7(style="place-self:center;")
         p(data-aos="zoom-in") En este componente formativo habrá un énfasis en especial en los principios del diseño gráfico, la producción multimedia, las audiencias y las publicaciones #[strong #[em online]] para empresas turísticas como aspectos importantes en las estrategias de mercadeo que permitan alcanzar los resultados establecidos para el ecosistema digital.
         p.mt-4(Data-aos="zoom-in") Producir contenidos es una de las actividades básicas en el #[em marketing] digital, pues, la #[strong producción de contenido] es el combustible del #[strong #[em inbound marketing]], de esta forma, pensar en un texto estructurado, es el inicio del proceso, por tanto, pensar este aspecto, debe entenderse como el acto de producir materiales gráficos, con el objetivo de informar, educar o entretener al público objetivo es así, que crear #[strong contenido de calidad] debe ser la base fundamental para #[strong atraer visitantes], convertirlos en clientes y mantenerlos, ya que no solo basta con crear una página #[em web], una tienda #[em online] o estar en redes sociales, sino que el material que se ofrece les ayude a tomar decisiones y que les aporte valor.
