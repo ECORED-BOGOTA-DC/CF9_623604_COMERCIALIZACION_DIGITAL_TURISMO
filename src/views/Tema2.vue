@@ -27,7 +27,7 @@
           .col-7
             img(src='@/assets/curso/tema2/3.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Canal
-        p(style="color:#12263F;") El medio utilizado para entregar el mensaje. Ejemplos: Sitios web, redes sociales, televisión, entre otros.
+        p(style="color:#12263F;") El medio utilizado para entregar el mensaje. Ejemplos: sitios web, redes sociales, televisión, entre otros.
       .tarjeta.color-acento-botones.p-4.text-center(style="background-color:#F3FADC;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
@@ -53,7 +53,7 @@
         p.fw-bold.mt-4(style="color:#12263F;") Destinatario
         p(style="color:#12263F;")  Uno o más usuarios que reciben el mensaje.
     
-    p.mt-5(data-aos="zoom-in") Los elementos visuales constituyen la sustancia básica de lo que se ve y su número es reducido: punto, línea, contorno, dirección, tono, color, textura, dimensión, escala y movimiento. Son los ingredientes básicos que se utilizan para el desarrollo del pensamiento y la comunicación visuales, se pueden revisar en el siguiente recurso:
+    p.mt-5(data-aos="zoom-in") Los elementos visuales constituyen la sustancia básica de lo que se ve y su número es reducido: punto, línea, contorno, dirección, tono, color, textura, dimensión, escala y movimiento. Son los ingredientes básicos que se utilizan para el desarrollo del pensamiento y la comunicación visual, se presentan en el siguiente recurso:
 
     SlyderF.mt-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-acento-botones.p-4.text-center.tarjeta_hover.hover1(style="background-color:#E8E8E8;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
@@ -111,7 +111,7 @@
             figure.text-center
               img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito aprendiz a observar el video llamado: #[strong #[em “Capcut”]] en el que podrá identificar las bondades de #[em Capcut] en el diseño gráfico:
+            p.mb-0 Se recomienda profundizar en el tema a través del video #[strong #[em “Capcut”]].
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.YouTube.com/watch?v=Ngv9Q--VLBA&t=3s" target="_blank")
               span Ver video
@@ -120,7 +120,7 @@
     .mt-5.mb-4.p-3(style="max-width:fit-content;min-width:250px;background-color:#B1DE19;border-radius:30px 0px 30px 0px;" data-aos="zoom-in-up")
       h4.mb-0.ps-2.pe-4 Creación de video
     
-    p(data-aos="zoom-in") Las empresas turísticas necesitan encontrar nuevas formas de llamar la atención de sus usuarios y promocionar sus servicios. Por lo tanto, puede confiar en el uso de video. Esta estrategia de #[em marketing] es una de las más efectivas y atractivas para los usuarios de Internet, y tiene un gran potencial porque facilita que los usuarios consuman y compartan este tipo de contenido. Revise los siguientes videos, que le darán pautas de los elementos que se debe tener en cuenta al crear un video:
+    p(data-aos="zoom-in") Las empresas turísticas necesitan encontrar nuevas formas de llamar la atención de sus usuarios y promocionar sus servicios, para lo cual es útil el uso de videos. Esta estrategia de #[em marketing] es una de las más efectivas y atractivas para los usuarios de Internet, y tiene un gran potencial porque facilita que los usuarios consuman y compartan este tipo de contenido. A continuación se presentan los elementos que se deben tener en cuenta a la hora de crear un video:
 
     .col-xl-10.m-auto.mt-5
       ImagenInfograficaB.infografia1.color-secundario
@@ -141,7 +141,7 @@
           p.text-white La duración mínima es de 40 segundos y la duración máxima es de 4 minutos.
         div(x="84%" y="79%" tooltip="Accesibilidad" numero="5")
           h5.text-white Accesibilidad
-          p.text-white Para comenzar a implementar esta estrategia de #[em.text-white marketing], te recomendamos que le des a tus usuarios acceso gratuito a tus videos. 
+          p.text-white Para comenzar a implementar esta estrategia de #[em.text-white marketing], es recomendable que se conceda a los usuarios acceso gratuito a los videos.
     
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FFECBE;border-radius:15px;")
@@ -150,7 +150,7 @@
             figure.text-center
               img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito a observar el video llamado: #[strong #[em “Creación de video”]] en el que podrá identificar elementos claves en la creación de videos:
+            p.mb-0 Se recomienda profundizar en el tema a través del video #[strong #[em “Creación de video”]].
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.YouTube.com/watch?v=erk3tP-avF8" target="_blank")
               span Ver video
@@ -162,7 +162,7 @@
             figure.text-center
               img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito a observar el video llamado: #[strong “Conceptualización del desarrollo multimedia y #[em web]: introducción”] en el que podrá elementos generales a atender en el desarrollo multimedia de contenidos:
+            p.mb-0 Para conocer más sobre los elementos a considerar en el desarrollo de contenidos mutlimedia se sugiere explorar el video #[strong “Conceptualización del desarrollo multimedia y web: introducción”].
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.YouTube.com/watch?v=i74TnksLTcs" target="_blank")
               span Ver video
@@ -223,4 +223,5 @@ export default {
   left: -11px
 .infografia1 .img-infografica-b__modal
   background-color: #004E99
+  min-height: 100% !important
 </style>

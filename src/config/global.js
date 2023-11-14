@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Conceptos de producción de contenido digital',
     descripcionCurso:
-      'El diseño gráfico les permite a las empresas turísticas, desarrollar estrategias de comunicación visual para transmitir a sus usuarios su marca, valores, propuestas de valor, productos y/o servicios, entre otros; por medio de un mensaje eficaz e inmediato.',
+      'El diseño gráfico le permite a las empresas turísticas, desarrollar estrategias de comunicación visual para transmitir a sus usuarios su marca, valores, propuestas de valor, productos o servicios, entre otros; por medio de un mensaje eficaz e inmediato.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -74,7 +74,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Publicación online para empresas turísticas',
+        titulo: 'Publicación <em>online</em> para empresas turísticas',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -130,7 +130,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: '<em>Chatbots</em>',
+        titulo: 'Chatbots',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -206,7 +206,7 @@ export default {
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: '<em>Business Intelligence</em>',
+        titulo: 'Business Intelligence',
         desarrolloContenidos: true,
         subMenu: [
           {

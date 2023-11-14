@@ -28,7 +28,7 @@
         i.fas.fa-check.fa-li(style="color:#ED7D41;")
         | El contorno es el conjunto de líneas que limitan una forma y se pueden hacer infinitas combinaciones con ellas.
 
-    p.mt-5(data-aos="zoom-in") Cada uno de estos elementos tiene sus propias características que les permiten modificarse. Las que más predominan son:
+    p.mt-5(data-aos="zoom-in") Cada uno de estos elementos tiene sus propias características que permiten modificarlos. Las que más predominan son:
 
     .row.mt-4(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
@@ -86,7 +86,7 @@
     .titulo-segundo
       h2#t_1_1 1.1 Fundamentos de diseño gráfico
     
-    p(data-aos="zoom-in") Una buena pieza gráfica es la que cumple el objetivo para el que fue creada, es por este motivo que la empresa turística debe tener en cuenta una serie de requisitos cuando se diseñe las piezas gráficas (ROJO, 2012):
+    p(data-aos="zoom-in") Una buena pieza gráfica es la que cumple el objetivo para el que fue creada, es por este motivo que la empresa turística debe tener en cuenta una serie de requisitos cuando se diseñen las piezas gráficas (ROJO, 2012):
 
     .row.mt-5
       .col-lg-4.col-md-6.mb-5
@@ -133,7 +133,7 @@
             figure.text-center
               img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito a observar el video llamado: #[strong #[em “Reglas básicas para el diseño”]] en el que podrás reconocer las reglas básicas para el diseño gráfico:
+            p.mb-0 Se recomienda profundizar en el tema a través del video #[strong #[em “Reglas básicas para el diseño”]].
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.YouTube.com/watch?v=Tl7FBNujWyI" target="_blank")
               span Ver video
@@ -151,7 +151,7 @@
             figure.text-center
               img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito a observar el video llamado: #[strong #[em “Psicología del color: significado de colores en la publicidad”]] en el que podrá identificar los significados y usos de colores en el diseño gráfico:
+            p.mb-0 Se recomienda profundizar en el tema a través del video #[strong #[em “Psicología del color: significado de colores en la publicidad”]].
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.YouTube.com/watch?v=UWSe5bCGNhs" target="_blank")
               span Ver video
@@ -163,7 +163,7 @@
       h2#t_1_2 1.2  Herramientas y técnicas de elaboración de piezas gráficas
     
     p(data-aos="zoom-in") Las herramientas y técnicas de elaboración de piezas gráficas, permiten crear autoridad en el nicho de mercado de cualquier marca o empresa, pues, se optimiza el proceso a través del cual nos relacionamos con el cliente, por tanto, cada vez que se seleccione un formato, se deben tener en cuenta los objetivos, la calidad y la originalidad planteados en la creación del contenido digital en una información más estructurada y relevante, esto será la clave para atraer personas que interactúen con la marca, se conviertan en clientes potenciales y pasen por los diferentes canales de venta.
-    p.mt-4(data-aos="zoom-in") Sin embargo, antes de iniciar con la construcción del contenido, es importante hablar de #[em branding], como las estrategias de #[em marketing] que implementa la empresa para construir su identidad y posicionar la marca en el mercado, a su propósito y valores; y así, crear conexiones conscientes e inconscientes con el público, con el objetivo de ayudar a los clientes potenciales en sus decisiones de compra, en otras palabras, el #[em branding] se enfoca en hacer conocida y deseada una marca, así como en ejercer una imagen positiva en la mente y el corazón de los consumidores. 
+    p.mt-4(data-aos="zoom-in") Sin embargo, antes de iniciar con la construcción del contenido, es importante hablar de #[em branding], que se compone de las estrategias de #[em marketing] que implementa la empresa para construir su identidad y posicionar la marca en el mercado, según su propósito y valores; y así, crear conexiones conscientes e inconscientes con el público, con el objetivo de ayudar a los clientes potenciales en sus decisiones de compra, en otras palabras, el #[em branding] se enfoca en hacer conocida y deseada una marca, así como en ejercer una imagen positiva en la mente y el corazón de los consumidores. 
 
     .row.mt-5
       .col-lg-5.mb-4.mb-lg-0
@@ -171,10 +171,10 @@
           img(src="@/assets/curso/tema1/10.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg
         .cajon.color-acento-botones.p-4.h-100.d-flex.flex-wrap.align-content-center(style="background-color:#CBEBF2;" data-aos="zoom-in-left")
-          p.mb-0 Un ejemplo de lo anterior, es el caso de Apple, entiende que todas las acciones comunicativas que se toman, deben estar alineadas a los atributos que buscan sus prospectos, en el que se anuncia como tecnología simple, amigable e innovadora, en el que predomina un concepto minimalista, basándose en colores como el blanco que, a nivel visual, dan la sensación de sencillez y transparencia, y negro que le da solidez y elegancia.
-          p.mt-4.mb-0 Así es como, Apple no se queda solo en el diseño, transmite este concepto a sus tiendas y máquinas, en el que sus colaboradores tienen el perfil de personas jóvenes y amables, en su #[em packaging] mantiene la misma coherencia, en el que se piensa en el consumidor, en como el empaque es simple e intuitivo, en el que se busca que el usuario tenga una experiencia clara y concisa de que obtendrá con el producto. 
+          p.mb-0 Un ejemplo de lo anterior, es el caso de Apple, que entiende que todas las acciones comunicativas que se toman, deben estar alineadas con los atributos que buscan sus prospectos, anunciándose como tecnología simple, amigable e innovadora, en la cual predomina un concepto minimalista, basándose en colores como el blanco que, a nivel visual, da la sensación de sencillez y transparencia, y negro que transmite solidez y elegancia.
+          p.mt-4.mb-0 Así es como, Apple no se queda solo en el diseño, transmite este concepto a sus tiendas y máquinas, sus colaboradores tienen el perfil de personas jóvenes y amables, en su #[em packaging] mantiene la misma coherencia, pensando en el consumidor, en como el empaque sea simple e intuitivo, de manera que el usuario tenga una experiencia clara y concisa de qué obtendrá con el producto. 
     
-    p.mt-5(data-aos="zoom-in") De modo que, debe existir un objetivo claro y que todos los integrantes de la empresa conozcan sobre el ADN de la marca como: el nombre, el logotipo, los valores, la tipografía, los colores y la filosofía. Con esta herramienta, la empresa turística puede diseñar su marca, permitiendo la toma decisiones creativas, para los distintos contextos, en el espacio y tiempo, para mantener la marca fresca y en sintonía con los deseos, necesidades y atributos buscados por el público objetivo. 
+    p.mt-5(data-aos="zoom-in") De modo que, debe existir un objetivo claro y que todos los integrantes de la empresa conozcan sobre el ADN de la marca que lo compone el nombre, el logotipo, los valores, la tipografía, los colores y la filosofía. Con esta herramienta, la empresa turística puede diseñar su marca, permitiendo la toma decisiones creativas, para los distintos contextos, en el espacio y tiempo, para mantener la marca fresca y en sintonía con los deseos, necesidades y atributos buscados por el público objetivo. 
 
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FFECBE;border-radius:15px;")
@@ -183,7 +183,7 @@
             figure.text-center
               img(src="@/assets/curso/tema1/11.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito aprendiz a observar el video llamado: #[strong “Creación de marca”] en el que podrá identificar los significados y usos de los elementos que se tienen en cuenta para crear la marca de una empresa.
+            p.mb-0 Se recomienda profundizar en el tema a través del video #[strong “Creación de marca”].
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.YouTube.com/watch?v=3RHnB9izZ_8" target="_blank")
               span Ver video
@@ -201,7 +201,7 @@
             figure.text-center
               img(src="@/assets/curso/tema1/12.svg" style="display:inline;max-width:50px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito aprendiz a observar el video llamado: #[strong “Figma”] en el que podrá identificar #[em software] y herramientas para automatización de procesos en el diseño gráfico:
+            p.mb-0 Se recomienda profundizar en el tema a través del video #[strong “Figma”].
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.YouTube.com/watch?v=p2P3ETt_hcs&t=5s" target="_blank")
               span Ver video
@@ -211,7 +211,6 @@
       h4.mb-0.ps-2.pe-4 #[em Branding]
     
     p(data-aos="fade-left") Al hablar de #[em branding], se hace mención de las estrategias de #[em marketing] que necesitan las empresas turísticas para construir su identidad. Para hacer esto, debe considerar elementos como: el nombre, el logotipo, los valores, la tipografía, los colores y la filosofía. Con esta herramienta, la empresa turística puede diseñar su marca.
-    p.mt-4(Data-aos="fade-right") Sin embargo, antes de iniciar con la construcción del contenido, es importante hablar de #[em branding], como las estrategias de #[em marketing] que implementa la empresa para construir su identidad y posicionar la marca en el mercado, a su propósito y valores; y así, crear conexiones conscientes e inconscientes con el público, con el objetivo de ayudar a los clientes potenciales en sus decisiones de compra, en otras palabras, el #[em branding] se enfoca en hacer conocida y deseada una marca, así como en ejercer una imagen positiva en la mente y el corazón de los consumidores.
 
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FFECBE;border-radius:15px;")
@@ -220,7 +219,7 @@
             figure.text-center
               img(src="@/assets/curso/tema1/12.svg" style="display:inline;max-width:50px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito aprendiz a observar el video llamado: #[strong “Creación de marca”] en el que podrá identificar el paso a paso para la creación de marca dentro del diseño gráfico: 
+            p.mb-0 Se recomienda profundizar en el tema a través del video #[strong “Creación de marca”].
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.YouTube.com/watch?v=3RHnB9izZ_8" target="_blank")
               span Ver video
@@ -230,7 +229,7 @@
     .mt-5.mb-4.p-3(style="max-width:fit-content;min-width:250px;background-color:#B1DE19;border-radius:30px 0px 30px 0px;" data-aos="zoom-in-up")
       h4.mb-0.ps-2.pe-4 Creación de piezas
     
-    p(data-aos="zoom-in") Las piezas gráficas apoyan la representación visual de la marca de la empresa turística. Estas partes deben lograr objetivos específicos, tales como, de acuerdo con el manual de identidad corporativa: B. Promocionar la experiencia turística en venta en el sitio web.
+    p(data-aos="zoom-in") Las piezas gráficas apoyan la representación visual de la marca de la empresa turística, y deben lograr objetivos específicos, tales como promocionar la experiencia turística de venta en el sitio web de acuerdo con el manual de identidad corporativa.
 
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FFECBE;border-radius:15px;")
@@ -239,7 +238,7 @@
             figure.text-center
               img(src="@/assets/curso/tema1/13.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito aprendiz a observar el video llamado: #[strong “Creación de piezas”] en el que podrá identificar #[em tips] para la creación de piezas en el diseño gráfico:
+            p.mb-0 Se recomienda profundizar en el tema a través del video #[strong “Creación de piezas”].
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.YouTube.com/watch?v=VDC5rltd8Vw&t=61s" target="_blank")
               span Ver video
@@ -278,8 +277,8 @@
               img(src='@/assets/curso/tema1/16.svg' style="display:inline;max-width:380px;" alt="Imagen decorativa")
           .col-md-6(style="place-self:center;")
             h5 Canva
-            p Lo interesante de esta herramienta es que es gratis y no tienes que pagar nada para usarla. Solo regístrate y podrás empezar a diseñar. Incluye un tutorial para guiarte desde el principio. Es importante señalar que además de la versión gratuita, existe una versión Pro de pago. Incluye imágenes, plantillas adicionales y otros recursos. Canva tiene una biblioteca muy grande y diversa de más de 1 millón de activos, que incluyen plantillas, fotos, gráficos, ilustraciones e íconos.
-            p.mt-3 Tiene un motor de búsqueda que definitivamente te traerá la imagen que estás buscando. También te da la opción de subir tú mismo fotos de tu computadora o Facebook. Una vez que haya seleccionado una plantilla, puede cambiar lo que necesite. Los elementos están en capas y agrupados, pero puede desagregarse para editarlos individualmente. 
+            p Es una herramienta gratuita, solo se debe hacer el registro para comenzar a diseñar. Incluye un tutorial como guia para principiantes. Es importante señalar que además de la versión gratuita, existe una versión "pro" paga. Incluye imágenes, plantillas y otros recursos. Canva tiene una biblioteca muy grande y diversa de más de 1 millón de activos, que incluyen plantillas, fotos, gráficos, ilustraciones e íconos.
+            p.mt-3 Tiene un motor de búsqueda para encontrar las imágenes precisas según la necesidad, e incluye la opción de subir fotos del computador o de Facebook. Una vez seleccionada una plantilla, se puede modificar lo que se requiera. Los elementos están en capas y agrupados, pero puede desagruparse para editarlos individualmente.
     
     Separador.mt-5
 
@@ -328,7 +327,7 @@
             figure.text-center
               img(src="@/assets/curso/tema1/17.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito aprendiz a observar el video llamado: #[strong #[em “Conoce que es el  Audacity”]] en el que podrá identificar las bondades de Audacity en procesos de diseño gráfico:
+            p.mb-0 Se recomienda profundizar en el tema a través del video #[strong #[em “Conoce que es el  Audacity”]].
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.YouTube.com/watch?v=66cRVRhTWf4" target="_blank")
               span Ver video
@@ -340,7 +339,7 @@
             figure.text-center
               img(src="@/assets/curso/tema1/17.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito aprendiz a observar el video llamado: #[strong #[em “Creación de audio”]] en el que podrá identificar el paso a paso para la creación de audios:
+            p.mb-0 Para conocer el paso a paso de la creación de audios se sugiere explorar el video #[strong #[em “Creación de audio”]].
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.YouTube.com/watch?v=cgqq8gDEPHM" target="_blank")
               span Ver video

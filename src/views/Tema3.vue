@@ -85,7 +85,7 @@
         .col(style="place-self:center;")
           h5 Airbnb
           p Conocido por brindar acceso a alojamientos únicos en todo el mundo. La mayoría de los alojamientos que utilizan Airbnb no pertenecen a los grandes segmentos hoteleros, sino que se centran en la cultura y la vida local. 
-          p.mt-3.mb-0 #[strong Uso ideal:] alquileres vacacionales, #[em bed and breakfast], apartamentos compartidos, hoteles boutique, hostales, instalaciones independientes.
+          p.mt-3.mb-0 #[strong Uso ideal:] alquileres vacacionales, #[em bed and breakfast], apartamentos compartidos, hoteles #[em boutique], hostales, instalaciones independientes.
     .col-xl-11.p-4(style="background: linear-gradient(90deg, rgba(255,255,255,1) 8%, rgba(255,244,225,1) 8%);" data-aos="flip-up")
       .row
         .col-auto(style="place-self:center;")
@@ -120,7 +120,7 @@
             img(src="@/assets/curso/tema3/13.svg" alt="Imagen publicitaria que identifica a Despegar.")
         .col(style="place-self:center;")
           h5 Despegar
-          p Es la OTA más grande de América Latina, sirviendo a toda la región y más allá. Especializados en hoteles y vuelos. Sin embargo, también ofrecemos alquileres vacacionales, alquiler de coches, actividades y paquetes. 
+          p Es la OTA más grande de América Latina, sirviendo a toda la región y más allá. Especializados en hoteles y vuelos. También ofrecen alquileres vacacionales, alquiler de coches, actividades y paquetes. 
           p.mt-3.mb-0 #[strong Uso ideal:] hoteles y aerolíneas.
     .col-xl-11.p-4(style="background: linear-gradient(90deg, rgba(255,255,255,1) 8%, rgba(255,244,225,1) 8%);" data-aos="flip-up")
       .row
@@ -144,7 +144,7 @@
     .mt-5.mb-4.p-3(style="max-width:fit-content;min-width:250px;background-color:#B1DE19;border-radius:30px 0px 30px 0px;" data-aos="zoom-in-up")
       h4.mb-0.ps-2.pe-4 Principales Metabuscadores en turismo
     
-    p(data-aos="zoom-in") Los metabuscadores apoyan en las exploraciones en un conjunto de buscadores y muestran los resultados agrupados por buscador. Es como si se realizará una búsqueda en varios buscadores y se unieran los resultados en una sola página, entre los ejemplos más generales se tienen, Metacrawler que busca en Google, Yahoo, Ask Jeeves; en el siguiente recurso, se puede reconocer los más empleados en el sector turismo:
+    p(data-aos="zoom-in") Los metabuscadores apoyan en las exploraciones en un conjunto de buscadores y muestran los resultados agrupados por buscador. Es como si se realizara una búsqueda en varios buscadores y se unieran los resultados en una sola página, entre los ejemplos más generales se tienen, Metacrawler que busca en Google, Yahoo, Ask Jeeves; en el siguiente recurso, se presentan los más empleados en el sector turismo:
 
     TabsA.color-acento-botones.mt-5
       .tarjeta.color-secundario.p-4(titulo="Trivago" style="background-color:#FFF4E1;")
@@ -172,7 +172,7 @@
     .mt-5.mb-4.p-3(style="max-width:fit-content;min-width:250px;background-color:#B1DE19;border-radius:30px 0px 30px 0px;" data-aos="zoom-in-up")
       h4.mb-0.ps-2.pe-4 Top de las 4 mejores aplicaciones para pedir comida a domicilio en Colombia
     
-    p(data-aos="zoom-in") Sobre estas aplicaciones se puede mencionar que la mayoría son rápidas y confiables para pedidos de comida a domicilio. Su objetivo es unir a clientes con tiendas y repartidores para llevar los mejores productos a dónde los clientes requieran. En el siguiente recurso, se podrá encontrar cuatro (4) de las mejores aplicaciones para pedir comida a domicilio en Colombia:
+    p(data-aos="zoom-in") Sobre estas aplicaciones se puede mencionar que la mayoría son rápidas y confiables para pedidos de comida a domicilio. Su objetivo es unir a clientes con tiendas y repartidores para llevar los mejores productos a donde los clientes requieran. En el siguiente recurso, se presentan cuatro (4) de las mejores aplicaciones para pedir comida a domicilio en Colombia:
 
     .tarjeta.tarjeta--azul.p-4.p-md-5.mt-5.pb-md-4
       SlyderA(tipo="b")
@@ -210,7 +210,7 @@
     .mt-5.mb-4.p-3(style="max-width:fit-content;min-width:250px;background-color:#B1DE19;border-radius:30px 0px 30px 0px;" data-aos="zoom-in-up")
       h4.mb-0.ps-2.pe-4 Plataformas para desarrollar eventos virtuales
     
-    p(data-aos="zoom-in") Ahora bien, las plataformas para eventos facilitan herramientas de gestión de cualquier tipo de evento; estas plataformas de eventos son fáciles de usar y simplifican los procesos logísticos que se requieren, a continuación, se encontrará algunas de ellas:
+    p(data-aos="zoom-in") Las plataformas para eventos facilitan herramientas de gestión de cualquier tipo de evento; estas plataformas de eventos son fáciles de usar y simplifican los procesos logísticos que se requieren, a continuación, se presentan:
 
     .row.mt-5(@click="mostrarIndicador = false")
       .col-lg-4.mb-4.col-md-6
