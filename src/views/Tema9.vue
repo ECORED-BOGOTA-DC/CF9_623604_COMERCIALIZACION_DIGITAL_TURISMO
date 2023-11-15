@@ -16,13 +16,13 @@
             figure.text-center
               img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito a observar el video llamado: #[strong #[em “Atención PQR: introducción”]] en el que podrá identificar #[em software] y herramientas para automatización de procesos en el diseño gráfico:
+            p.mb-0 Se sugiere explorar el video: #[strong #[em “Atención PQR: introducción”]] en el que se presentan #[em software] y herramientas para automatización de procesos en el diseño gráfico:
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://youtu.be/PSiBtkl75Hc" target="_blank")
               span Ver video
               i.fas.fa-play
     
-    p.mt-5(data-aos="zoom-in") Todos los usuarios presentar peticiones, quejas, solicitudes y sugerencias, tal como lo señala Constitución Política de Colombia, el Código Contencioso Administrativo y la Circular Única de la Superintendencia de Industria y Comercio, en la que se debe tener en cuenta los siguientes conceptos:
+    p.mt-5(data-aos="zoom-in") Todos los usuarios presentar peticiones, quejas, solicitudes y sugerencias, tal como lo señala Constitución Política de Colombia, el Código Contencioso Administrativo y la Circular Única de la Superintendencia de Industria y Comercio, y de deben tener en cuenta los siguientes conceptos:
 
     .row.mt-5
       .col-md-6.col-xl-3.mb-4.mb-xl-0
@@ -45,8 +45,8 @@
           .tarjeta-flip__contenedor(style="background-color:#FFE4B9;border-radius:20px;")
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema9/3.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5(style="background-color:#FFE4B9;")
-              h3(style="font-size:38px;") Reclamos
-              p Es la objeción o contrariedad de un usuario frente a un servicio prestado, en la que solicita a la empresa, se valide y evalúe lo ocurrida en dicha situación y proceda con una solución satisfactoria.
+              h3(style="font-size:38px;") Reclamo
+              p Es la objeción o contrariedad de un usuario frente a un servicio prestado, en la que solicita a la empresa, se valide y evalúe lo ocurrido en dicha situación y proceda con una solución satisfactoria.
       .col-md-6.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false" style="background-color:#E4F4AE;" data-aos="flip-up")
           .tarjeta-flip__contenedor(style="background-color:#E4F4AE;border-radius:20px;")
@@ -67,7 +67,7 @@
         figure
           img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
-        p.mb-0 Accesible: debe permitir a los clientes iniciar fácilmente el proceso de creación de solicitudes, quejas, facturas y sugerencias.
+        p.mb-0 Accesible: debe permitir a los clientes iniciar fácilmente el proceso de creación de solicitudes, quejas, reclamos y sugerencias.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
@@ -104,7 +104,7 @@
     .titulo-segundo
       h2#t_9_2 9.2  Gestión de PQRS
     
-    p(data-aos="zoom-in") La gestión de PQRS, es un proceso deben realizar las organizaciones frente a los requerimientos recibidos por parte de los usuarios, para tal caso se debe recibir, tramitar y resolver con el cumplimiento de la misión de la entidad con oportunidad, calidad y transparencia.
+    p(data-aos="zoom-in") La gestión de PQRS, es un proceso que deben realizar las organizaciones frente a los requerimientos recibidos por parte de los usuarios, para tal caso se debe recibir, tramitar y resolver de acuerdo con el cumplimiento de la misión de la entidad con oportunidad, calidad y transparencia.
 
     SlyderF.slyderf_8_1.mt-5(columnas="col-lg-6 col-xl-4")
       .tarjeta-numerada.color-primario.p-5

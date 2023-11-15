@@ -5,14 +5,14 @@
     .titulo-principal.color-acento-contenido(data-aos="zoom-in-up")
       .titulo-principal__numero
         span 7
-      h1 #[em Business Intelligence]
+      h1 Business Intelligence
     
     .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5(data-aos="flip-up")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema7/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4.p-lg-5
-        p.mb-0 #[Em Business Intelligence] (BI) es la combinación entre minería de datos, visualización de datos, herramientas e infraestructura de datos y mejores prácticas para mantener a las organizaciones a implementar decisiones basadas en datos. En la práctica, sabe que tiene una genialidad de negocios moderna cuando tiene una fantasía mundial de los datos de su dirección y utiliza esos datos para propiciar el cambio, extender las ineficiencias y adaptarse enseguida a los cambios del mercado o de la oferta. 
+        p.mb-0 Business Intelligence (BI) es la combinación entre minería de datos, visualización de datos, herramientas e infraestructura de datos y mejores prácticas para mantener a las organizaciones a implementar decisiones basadas en datos. En la práctica, sabe que tiene una genialidad de negocios moderna cuando tiene una fantasía mundial de los datos de su dirección y utiliza esos datos para propiciar el cambio, extender las ineficiencias y adaptarse enseguida a los cambios del mercado o de la oferta. 
         |
         br
         br
@@ -26,7 +26,7 @@
     
     .col-xl-10.m-auto
       .cajon.color-primario.p-4(style="background-color:#FFF7E5;box-shadow:0px 4px 8px rgba(0,0,0,.1);" data-aos="zoom-in-up")
-        p.mb-0 Una de las principales características de #[em Business Intelligence] es que el #[em software] es muy práctico y fácil de usar, pues no se necesitan conocimientos técnicos de ciencia de datos para realizar las capacidades de análisis de datos, ya que el procesamiento de datos automáticamente. Otras características de inteligencia de negocios relacionadas con la herramienta son:
+        p.mb-0 Una de las principales características de Business Intelligence es que el #[em software] es muy práctico y fácil de usar, pues no se necesitan conocimientos técnicos de ciencia de datos para realizar las capacidades de análisis de datos, ya que el procesamiento de datos automáticamente. Otras características de inteligencia de negocios relacionadas con la herramienta son:
     
     ImagenInfograficaB.infografia1.color-secundario.mt-5
       template(v-slot:imagen)
@@ -81,7 +81,7 @@
         figure
           img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
-        p.mb-0 Comentarios de usuarios en #[em blogs] y sitios de redes sociales.
+        p.mb-0 Comentarios de usuarios en blogs y sitios de redes sociales.
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
@@ -105,7 +105,7 @@
         figure
           img(src="@/assets/curso/tema6/2.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
-        p.mb-0 Documentos (Word, PPT, PDF. texto).
+        p.mb-0 Documentos (Word, PPT, PDF, texto).
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
@@ -142,7 +142,7 @@
     .titulo-segundo
       h2#t_7_4 7.4 Datos semiestructurados
     
-    p(data-aos="zoom-in") Los datos semiestructurados no tienen un esquema definido. No se ajustan al formato de tabla/fila/columna, pero están organizados mediante etiquetas o "etiquetas" para que puedan agruparse para crear una jerarquía. Estos también se conocen como no relacionales o #[em NoSQL].  
+    p(data-aos="zoom-in") Los datos semiestructurados no tienen un esquema definido. No se ajustan al formato de tabla/fila/columna, pero están organizados mediante #[em tags] o "etiquetas" para que puedan agruparse para crear una jerarquía. Estos también se conocen como no relacionales o NoSQL.  
     p.mt-4(data-aos="zoom-in") Este tipo de datos representa alrededor del 510 % del volumen de datos del mundo. Sin embargo, desde un punto de vista comercial, existen casos de uso muy relevantes para la infraestructura de #[em big data] y las aplicaciones web en tiempo real. Algunos servicios muy conocidos basados en este tipo de datos son los sistemas de recomendación de Amazon o los servicios de LinkedIn. Los ejemplos más conocidos de datos semiestructurados son: 
 
     .row.mt-5
@@ -167,7 +167,7 @@
     .titulo-segundo
       h2#t_7_5 7.5  Datos internos
     
-    p(data-aos="zoom-in") Los datos internos son los datos a los que se accede dentro de su organización para tomar decisiones para operaciones exitosas. Esta información es importante para determinar si la estrategia actual de su empresa es exitosa o si necesita hacer cambios. Hay cuatro áreas en las que una empresa puede recopilar datos internos: 
+    p(data-aos="zoom-in") Los datos internos son los datos a los que se accede dentro de una organización para tomar decisiones para operaciones exitosas. Esta información es importante para determinar si la estrategia actual de la empresa es exitosa o si necesita hacer cambios. Hay cuatro áreas en las que una empresa puede recopilar datos internos: 
 
     TabsC.color-primario.mt-5
       .py-3.py-md-4(titulo="Ventas")
@@ -220,7 +220,7 @@
     .titulo-segundo
       h2#t_7_6 7.6 Datos externos
     
-    p(data-aos="zoom-in") Los datos externos enriquecen el modelo algorítmico porque a menudo ayudan a contextualizar y explicar el comportamiento de los datos internos analizados. Un ejemplo es un calendario de feriados nacionales que aumenta la demanda hotelera, influye en la entrega de paquetes de emergencia, e influye en los modelos de previsión de consumo y participación en eventos. Como datos externos, son datos generados fuera de su organización. Puede provenir de una variedad de fuentes, y actualmente existen numerosas iniciativas de datos abiertos que crean una gran cantidad de datos externos que se pueden utilizar para el análisis.
+    p(data-aos="zoom-in") Los datos externos enriquecen el modelo algorítmico porque a menudo ayudan a contextualizar y explicar el comportamiento de los datos internos analizados. Un ejemplo es un calendario de feriados nacionales que aumenta la demanda hotelera, influye en la entrega de paquetes de emergencia, e influye en los modelos de previsión de consumo y participación en eventos. Al ser datos externos, son datos generados fuera de su organización. Pueden provenir de una variedad de fuentes, y actualmente existen numerosas iniciativas de datos abiertos que crean una gran cantidad de datos externos que se pueden utilizar para el análisis.
 
 
 
@@ -265,6 +265,7 @@ export default {
   left: -10px
 .infografia1 .img-infografica-b__modal
   background-color: #004E99
+  min-height: 100% !important
 .tabs-c.color-primario .tabs-c__tab--active
   font-weight: bold
 .cajon.color-primario:before

@@ -7,7 +7,7 @@
         span 8
       h1 #[em Big data marketing]
     
-    p(data-aos="zoom-in") El #[em big data marketing] es una herramienta que utiliza las empresas para responder rápidamente y predecir la demanda de los consumidores al conocer sus necesidades y requerimientos de manera directa, acortando los tiempos de entrega y construyendo una cadena de valor, así esta herramienta, analiza grandes cantidades de datos para desarrollar estrategias que mejoren el proceso de #[em marketing]. Estos son algunos usos más comunes:
+    p(data-aos="zoom-in") El #[em big data marketing] es una herramienta que utilizan las empresas para responder rápidamente y predecir la demanda de los consumidores al conocer sus necesidades y requerimientos de manera directa, acortando los tiempos de entrega y construyendo una cadena de valor, así, esta herramienta analiza grandes cantidades de datos para desarrollar estrategias que mejoren el proceso de #[em marketing]. Estos son algunos de los usos más comunes:
 
     .row.mt-4(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
@@ -53,19 +53,19 @@
     
     .col-xl-10.m-auto
       .cajon.color-primario.p-4(style="background-color:#FFF7E5;box-shadow:0px 4px 8px rgba(0,0,0,.1);" data-aos="zoom-in-up")
-        p.mb-0 Para mantener la relevancia en el mercado y aumentar la ventaja competitiva, las empresas necesitan tener acceso a una información confiable y precisa. En este contexto, el #[em big data] ha demostrado ser herramienta muy útil en la toma de decisiones, pues para que sea efectiva se requiere de bases en datos sólidas, con el que se pueda analizar con más detalle factores como las tendencias del mercado, la calidad de la producción, rendimiento de las áreas de la empresa, así como el servicio al cliente, todo lo anterior, da la opción a la organización de mejorar los servicios y aumentar la rentabilidad.
+        p.mb-0 Para mantener la relevancia en el mercado y aumentar la ventaja competitiva, las empresas necesitan tener acceso a una información confiable y precisa. En este contexto, el #[em big data] ha demostrado ser una herramienta muy útil en la toma de decisiones, pues para que sea efectiva se requiere de bases en datos sólidas, con las que se pueda analizar con más detalle factores como las tendencias del mercado, la calidad de la producción, rendimiento de las áreas de la empresa, así como el servicio al cliente. Todo lo anterior da la opción a la organización de mejorar los servicios y aumentar la rentabilidad.
     
     Separador.mt-5
 
     .titulo-segundo
       h2#t_8_2 8.2  Características del #[em big data marketing]
     
-    p(data-aos="zoom-in") Con el #[em marketing] de #[em big data], estas son características importantes:
+    p(data-aos="zoom-in") A continuación se presentan las características más importantes del #[em big data marketing]:
 
     TabsA.color-acento-botones.mt-5
       .tarjeta.color-secundario.p-4(titulo="Volumen de información" style="background-color:#FFF4E1;")
         .row
-          p.mb-0 Se refiere a la cantidad de datos que su entorno produce cada segundo, minuto o día. Esta es la característica más comúnmente asociada de #[em big data]. A medida que nos conectamos generamos más y más datos. Por ejemplo, una empresa que vende sus productos solo a través de canales en línea puede beneficiarse de implementar tecnología de #[em big data] para procesar toda la información que recopila en el sitio web, rastrear cada acción realizada por un cliente, cómo saber dónde hizo más clic, cuántas veces revisó su carrito de compras, qué productos fueron más vistos, qué páginas fueron más visitadas, etc.
+          p.mb-0 Se refiere a la cantidad de datos que su entorno produce cada segundo, minuto o día. Esta es la característica más comúnmente asociada a #[em big data]. A medida que nos conectamos generamos más y más datos. Por ejemplo, una empresa que vende sus productos solo a través de canales en línea puede beneficiarse de implementar tecnología de #[em big data] para procesar toda la información que recopila en el sitio web, rastrear cada acción realizada por un cliente, como saber dónde hizo más clic, cuántas veces revisó su carrito de compras, qué productos fueron más vistos, qué páginas fueron más visitadas, etc.
       .tarjeta.color-secundario.p-4(titulo="Variedad de los datos" style="background-color:#FFF4E1;")
         .row
           p.mb-0 Se refiere al formato, método y fuente mediante el cual se registran los datos. Estos datos están estructurados como en bases de datos o datos no estructurados. Esto incluye documentos de texto, correos electrónicos, audio, videos, imágenes en dispositivos móviles, entre otros aspectos, para realizar estos análisis la empresa requiere utilizar herramientas calificadas para consolidar, monitorear y procesar datos recopilados de múltiples fuentes de información.

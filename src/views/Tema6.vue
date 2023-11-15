@@ -72,7 +72,7 @@
           li.d-flex(data-aos="fade-up")
             .lista-ol--cuadro__vineta
               span 3
-            | Comprobar si el resultado obtenido es un estado final (es una solución del problema) sino ir al paso 1.
+            | Comprobar si el resultado obtenido es un estado final (es una solución del problema) si no, ir al paso 1.
       .col-lg
         figure
           img(src="@/assets/curso/tema6/3.png" data-aos="zoom-in-left" alt="Imagen decorativa")
@@ -279,10 +279,10 @@
             figure.text-center
               img(src="@/assets/curso/tema6/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito a leer el documento llamado: #[strong #[em “Modelo de validación cruzada”]] disponible en el enlace:
+            p.mb-0 Para profundizar en el tema se sugiere la lectura del documento #[strong #[em “Modelo de validación cruzada”]] disponible en el siguiente enlace.
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://docs.microsoft.com/es-es/azure/machine-learning/component-reference/cross-validate-model" target="_blank")
-              span Ir a pagina
+              span Ir a página
               i.fas.fa-link
     
     Separador.mt-5
@@ -299,9 +299,9 @@
       .col-lg-8.col-md-6
         .cajon.p-4.color-acento-contenido(style="background-color:#CDF0E4;" data-aos="flip-up")
           p.mb-0 Por tanto, en la norma ISO/IEC 27001 y fue aprobada y publicada por la Organización Internacional de Normalización (ISO) y la Comisión Electrotécnica Internacional (IEC) en octubre de 2005, se definió la seguridad de la información como un conjunto de medios técnicos, organizativos y legales que permiten a una organización garantizar la confidencialidad, integridad y disponibilidad de un sistema de información, el cual es un activo que necesita más protección que limitan el acceso únicamente a las personas autorizadas, el cual debe considerar los tres tipos de información crítica, valiosa y sensible.
-          p.mt-4.mb-0 Con esta norma, se garantiza el acceso y protección de la información de acuerdo con los lineamientos establecidos en este mismo estándar. En otras palabras, debe generar confianza y proveer los mecanismos de acceso y tratamiento de la información almacenada entre dispositivos, usuarios, información, ya sea hardware o software. Para ello se utilizarán contraseñas de acceso individuales y cada trabajador tendrá claves intransferibles. Debe ser crítica, valiosa, sensible y tiene que abordar los riesgos, para estudiarlos y ofrecer medidas de prevención y técnicas para eliminar los riesgos. 
+          p.mt-4.mb-0 Con esta norma, se garantiza el acceso y protección de la información de acuerdo con los lineamientos establecidos en este mismo estándar. En otras palabras, debe generar confianza y proveer los mecanismos de acceso y tratamiento de la información almacenada entre dispositivos, usuarios, información, ya sea #[em hardware] o #[em software]. Para ello se utilizarán contraseñas de acceso individuales y cada trabajador tendrá claves intransferibles. Debe ser crítica, valiosa, sensible y tiene que abordar los riesgos, para estudiarlos y ofrecer medidas de prevención y técnicas para eliminar los riesgos. 
     
-    p.mt-4(data-aos="zoom-in") De modo, la seguridad de la información a la empresa beneficia en: 
+    p.mt-4(data-aos="zoom-in") La seguridad de la información a la empresa beneficia en: 
     .row.mt-4(data-aos="zoom-in")
       .col-auto.pe-0
         figure
@@ -321,7 +321,7 @@
       .col
         p.mb-0 Brindar una imagen corporativa segura. 
     
-    p.mt-5(data-aos="zoom-in") La seguridad de la información es muy importante para la organización, necesita controles y estándares, por tanto, en el siguiente video se profundizará en el tema:
+    p.mt-5(data-aos="zoom-in") La seguridad de la información es muy importante para la organización, necesita controles y estándares, en el siguiente video se profundizará en el tema:
 
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FFECBE;border-radius:15px;")
@@ -330,13 +330,13 @@
             figure.text-center
               img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito a observar el video llamado: #[strong #[em “Controles y estándares para el manejo de la seguridad de la información”]].
+            p.mb-0 Se sugiere explorar el video #[strong #[em “Controles y estándares para el manejo de la seguridad de la información”]].
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://youtu.be/n6Dffo75ts0" target="_blank")
               span Ver video
               i.fas.fa-play
     
-    p.mt-5(data-aos="zoom-in") Cabe señalar que hasta hace tantos años, este aspecto era solo un valor agregado, sin embargo, no se convirtió en uno de los pilares de la organización para proteger la información, por lo tanto, es necesario implementar herramientas y procesos para garantizar su protección y una gestión adecuada, una de las técnicas de protección más importantes y básicas para implementar la ciberseguridad es un cortafuegos o cortafuegos. El siguiente video está desarrollando su uso:
+    p.mt-5(data-aos="zoom-in") Cabe señalar que hasta hace tantos años, este aspecto era solo un valor agregado, sin embargo, no se convirtió en uno de los pilares de la organización para proteger la información, por lo tanto, es necesario implementar herramientas y procesos para garantizar su protección y una gestión adecuada, una de las técnicas de protección más importantes y básicas para implementar la ciberseguridad es un o cortafuegos o #[em firewall].
 
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FFECBE;border-radius:15px;")
@@ -345,7 +345,7 @@
             figure.text-center
               img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito a observar el video llamado: #[strong #[em “Firewall”]].
+            p.mb-0 Se sugiere explorar el video  #[strong #[em “Firewall”]] para profundizar en el tema.
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://youtu.be/HcQtLHiepto" target="_blank")
               span Ver video

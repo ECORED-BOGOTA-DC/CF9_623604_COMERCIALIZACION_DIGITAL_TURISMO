@@ -221,7 +221,7 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0.col-lg-8
               h4.text-white CrowdCast
-              p.text-white Pueden hacer videoconferencias y congresos #[em.text-white online]. Cuenta con funciones para preguntas y respuestas.
+              p.text-white Permite hacer videoconferencias y congresos #[em.text-white online]. Cuenta con funciones para preguntas y respuestas.
             .col-md-6.col-lg-4
               figure
                 img(src='@/assets/curso/tema3/29.svg' alt="Imagen decorativa")
@@ -234,7 +234,7 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0.col-lg-8
               h4.text-white Zoom
-              p.text-white Plataforma intuitiva y fácil de usar. Se pueden transmitir reuniones, conferencias y seminarios web con video, audio y mensajería instantánea. Cuenta con una versión premium que da la posibilidad de tener hasta 1.000 participantes y 10.000 espectadores con herramientas interactivas.
+              p.text-white Plataforma intuitiva y fácil de usar. Se pueden transmitir reuniones, conferencias y seminarios web con video, audio y mensajería instantánea. Cuenta con una versión #[em premium] que da la posibilidad de tener hasta 1.000 participantes y 10.000 espectadores con herramientas interactivas.
             .col-md-6.col-lg-4
               figure
                 img(src='@/assets/curso/tema3/30.svg' alt="Imagen decorativa")
@@ -246,7 +246,7 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0.col-lg-8
               h4.text-white LiveStorm
-              p.text-white Puedes crear videos en tiempo real, tanto para pequeños negocios como para grandes empresas. Puedes usar esta herramienta para realizar demostraciones de productos, reuniones, seminarios, cursos #[strong #[em online]], capacitaciones o cualquier evento que necesites.
+              p.text-white Permite crear videos en tiempo real, tanto para pequeños negocios como para grandes empresas. Esta herramienta se puede usar para realizar demostraciones de productos, reuniones, seminarios, cursos #[em online], capacitaciones o cualquier evento que necesites.
             .col-md-6.col-lg-4
               figure
                 img(src='@/assets/curso/tema3/31.svg' alt="Imagen decorativa")
@@ -290,7 +290,7 @@
     .mt-5.mb-4.p-3(style="max-width:fit-content;min-width:250px;background-color:#B1DE19;border-radius:30px 0px 30px 0px;" data-aos="zoom-in-up")
       h4.mb-0.ps-2.pe-4 Tipos de redes sociales
     
-    p(data-aos="zoom-in") Las redes sociales entre otros beneficios sirven para aumentar las relaciones entre los internautas y entre estos y las empresas, también facilitan la creación de grupos con intereses comunes y permite a los usuarios interactuar con el contenido publicado por otros, a continuación se encontrará la descripción de algunas de ellas:
+    p(data-aos="zoom-in") Las redes sociales permiten aumentar las relaciones entre los internautas y entre estos y las empresas, también facilitan la creación de grupos con intereses comunes y permite a los usuarios interactuar con el contenido publicado por otros, a continuación encontrará la descripción de algunas de ellas:
 
     .tarjeta.tarjeta--gris.p-4.p-md-5.pt-md-4.mt-5.cont_pasos1
       PasosB.color-secundario
@@ -347,9 +347,9 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema3/42.png')})`}"
       )
       .bloque-texto-g__texto.p-4.p-lg-5
-        p.mb-0 Las empresas turísticas deben intentar atraer nuevos usuarios potenciales al ecosistema digital. Una de las estrategias que se pueden adoptar es el #[em marketing] de contenidos, que consiste en publicar contenidos de valor y atractivos en diversos canales y medios digitales a los que los espectadores quieran llegar.
+        p.mb-0 Las empresas turísticas deben intentar atraer nuevos usuarios potenciales al ecosistema digital. Una de las estrategias que se puede adoptar es el #[em marketing] de contenidos, que consiste en publicar contenidos de valor y atractivos en diversos canales y medios digitales a los que los espectadores quieran llegar.
 
-    p.mt-5(data-aos="zoom-in") El #[em marketing] de contenidos permite a las empresas turísticas conectar con sus usuarios objetivo y ampliar su red de leads (usuarios registrados y cualificados) generando el contenido que quieren consumir. Esto agrega valor y atractivo para los usuarios. Cree una visión positiva para su marca, inspire confianza y apoye el proceso de compra. Aquí hay algunos consejos para publicar en una empresa turística:
+    p.mt-5(data-aos="zoom-in") El #[em marketing] de contenidos permite a las empresas turísticas conectar con sus usuarios objetivo y ampliar su red de #[em leads] (usuarios registrados y cualificados) generando el contenido que quieren consumir. Esto agrega valor y atractivo para los usuarios. Se debe crear una visión positiva para la marca, inspirar confianza y apoyar el proceso de compra. Aquí hay algunos consejos para publicar en una empresa turística:
 
     .row.mt-4(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
@@ -368,7 +368,7 @@
         figure
           img(src="@/assets/curso/tema3/43.svg" alt="Imagen decorativa")
       .col(style="place-self:center;")
-        p.mb-0 Definir el buyer persona.
+        p.mb-0 Definir el #[em buyer persona].
     .row.mt-2(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
@@ -400,7 +400,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-lg-7
             h5 Actualizar información
-            p La información cambia a gran velocidad y puede ser que lo que la empresa turística público hace algún tiempo, haya tenido alguna modificación, no esté disponible y las tendencias hayan cambiado.  
+            p La información cambia a gran velocidad y puede ser que lo que la empresa turística publicó hace algún tiempo, haya tenido alguna modificación, no esté disponible o las tendencias hayan cambiado.  
           .col-md-6.col-lg-5
             figure
               img(src='@/assets/curso/tema3/44.svg' alt="Imagen decorativa")
@@ -435,7 +435,7 @@
 
     .col-xl-8.xol-lg-10.m-auto.mt-5
       .cajon.color-acento-botones2.p-4(style="background-color:#D6EFFF;" data-aos="zoom-in-up")
-        p.mb-0 #[strong #[em Buyer] Persona:] las empresas necesitan conocer el dolor del cliente ideal, necesidades, características, intereses, formatos preferidos, etc., al momento de consumir contenido. 
+        p.mb-0 #[strong #[em Buyer] persona:] las empresas necesitan conocer el dolor del cliente ideal, necesidades, características, intereses, formatos preferidos, etc., al momento de consumir contenido. 
         p.mb-0 #[strong Proceso de compra:] las empresas necesitan identificar las diversas fases por las que pasa un cliente ideal, desde la identificación de necesidades hasta la compra.
 
 

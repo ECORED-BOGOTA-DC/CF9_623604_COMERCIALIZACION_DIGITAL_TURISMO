@@ -134,7 +134,7 @@
             figure.text-center
               img(src="@/assets/curso/tema1/9.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
-            p.mb-0 Te invito a observar el video llamado: #[strong #[em “Buyer] persona y plan de comunicación digital”] en el que podrá identificar como el #[em Buyer] de personas incide en la organización del plan de comunicación digital:
+            p.mb-0 Se recomienda profundizar en el tema a través del video #[strong #[em “Buyer persona] y plan de comunicación digital”].
           .col-lg-3.col-md-3.text-center(style="place-self:center;")
             a.boton.color-acento-botones(href="https://www.YouTube.com/watch?v=NtXnXMx6TcQ" target="_blank")
               span Ver video
@@ -185,7 +185,7 @@
     
     .row
       .col-lg-8.mb-4.mb-md-0.col-md-6
-        p(data-aos="zoom-in") Las empresas de turismo deben tener en cuenta a los usuarios que ya son clientes e identificar quién compra el servicio con frecuencia, qué tienen en común, sus experiencias favoritas y el contenido que consumen. Esto permite el valor de la vida (#[em value of life]) lo cual se puede hacer analizando lo siguiente:
+        p(data-aos="zoom-in") Las empresas de turismo deben tener en cuenta a los usuarios que ya son clientes e identificar quién compra el servicio con frecuencia, qué tienen en común, sus experiencias favoritas y el contenido que consumen. Esto permite identificar el valor de la vida (#[em value of life]) lo cual se puede hacer analizando lo siguiente:
         .row.mt-4(data-aos="zoom-in")
           .col-auto.pe-0(style="place-self:center;")
             figure
@@ -213,7 +213,7 @@
     .titulo-segundo
       h2#t_4_4 4.4  Segmentación basada en la plataforma
     
-    p(data-aos="zoom-in") Las empresas de turismo pueden considerar segmentar a los usuarios por plataforma o sitio que dedica más tiempo a impulsar el contenido y generar promociones por canal. El SEO puede identificar el comportamiento de cada mensaje y los segmentos que son más valiosos para tu negocio. Las redes sociales permiten identificar el comportamiento de los usuarios mediante herramientas que están al alcance de todos.
+    p(data-aos="zoom-in") Las empresas de turismo pueden considerar segmentar a los usuarios por plataforma o sitio que dedica más tiempo a impulsar el contenido y generar promociones por canal. El SEO puede identificar el comportamiento de cada mensaje y los segmentos que son más valiosos para telu negocio. Las redes sociales permiten identificar el comportamiento de los usuarios mediante herramientas que están al alcance de todos.
     
 
 
