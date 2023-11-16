@@ -27,13 +27,13 @@
           .col-7
             img(src='@/assets/curso/tema2/3.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Canal
-        p(style="color:#12263F;") El medio utilizado para entregar el mensaje. Ejemplos: sitios web, redes sociales, televisión, entre otros.
+        p(style="color:#12263F;") El medio utilizado para entregar el mensaje. Ejemplos: sitios web, redes sociales, televisión, entre otros. 
       .tarjeta.color-acento-botones.p-4.text-center(style="background-color:#F3FADC;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
             img(src='@/assets/curso/tema2/4.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Código
-        p(style="color:#12263F;") Normalmente se emplea una letra que representa una idea que la empresa quiere transmitir y que el usuario necesita entender.
+        p(style="color:#12263F;") Los signos que representan las ideas que la empresa quiere transmitir y que deben ser comprendidos por los usuarios.
       .tarjeta.color-acento-botones.p-4.text-center(style="background-color:#F3FADC;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
@@ -45,59 +45,13 @@
           .col-7
             img(src='@/assets/curso/tema2/6.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Objetivo
-        p(style="color:#12263F;") Qué quieren conseguir las empresas turísticas con un mensaje a  los usuarios.
+        p(style="color:#12263F;") Qué quieren conseguir las empresas turísticas con el mensaje a los usuarios.
       .tarjeta.color-acento-botones.p-4.text-center(style="background-color:#F3FADC;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
         .row.justify-content-center.mb-3
           .col-7
             img(src='@/assets/curso/tema2/7.svg' alt="Imagen decorativa")
         p.fw-bold.mt-4(style="color:#12263F;") Destinatario
-        p(style="color:#12263F;")  Uno o más usuarios que reciben el mensaje.
-    
-    p.mt-5(data-aos="zoom-in") Los elementos visuales constituyen la sustancia básica de lo que se ve y su número es reducido: punto, línea, contorno, dirección, tono, color, textura, dimensión, escala y movimiento. Son los ingredientes básicos que se utilizan para el desarrollo del pensamiento y la comunicación visual, se presentan en el siguiente recurso:
-
-    SlyderF.mt-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-acento-botones.p-4.text-center.tarjeta_hover.hover1(style="background-color:#E8E8E8;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
-        .row.justify-content-center.mb-3
-          .col-7
-            img(src='@/assets/curso/tema2/8.svg' alt="Imagen decorativa")
-        p.fw-bold.mt-4(style="color:#12263F;") Mensaje
-        p(style="color:#12263F;") Lo que la empresa turística quiere transmitir en la comunicación
-      .tarjeta.color-acento-botones.p-4.text-center.tarjeta_hover.hover2(style="background-color:#E8E8E8;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
-        .row.justify-content-center.mb-3
-          .col-7
-            img(src='@/assets/curso/tema2/9.svg' alt="Imagen decorativa")
-        p.fw-bold.mt-4(style="color:#12263F;") Emisor
-        p(style="color:#12263F;") La empresa turística o la persona encargada de elaborar el mensaje
-      .tarjeta.color-acento-botones.p-4.text-center.tarjeta_hover.hover3(style="background-color:#E8E8E8;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
-        .row.justify-content-center.mb-3
-          .col-7
-            img(src='@/assets/curso/tema2/10.svg' alt="Imagen decorativa")
-        p.fw-bold.mt-4(style="color:#12263F;") Canal
-        p(style="color:#12263F;") El medio que utiliza para transmitir el mensaje como por ejemplo el sitio web, red social, televisión, etc.
-      .tarjeta.color-acento-botones.p-4.text-center.tarjeta_hover.hover4(style="background-color:#E8E8E8;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
-        .row.justify-content-center.mb-3
-          .col-7
-            img(src='@/assets/curso/tema2/11.svg' alt="Imagen decorativa")
-        p.fw-bold.mt-4(style="color:#12263F;") Código
-        p(style="color:#12263F;") Los signos que representan las ideas que la empresa quiere transmitir y que deben ser comprendidos por los usuarios.
-      .tarjeta.color-acento-botones.p-4.text-center.tarjeta_hover.hover1(style="background-color:#E8E8E8;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
-        .row.justify-content-center.mb-3
-          .col-7
-            img(src='@/assets/curso/tema2/12.svg' alt="Imagen decorativa")
-        p.fw-bold.mt-4(style="color:#12263F;") Contexto
-        p(style="color:#12263F;") La situación en la que se transmite el mensaje y que, de acuerdo con este, puede generar diferentes interpretaciones.
-      .tarjeta.color-acento-botones.p-4.text-center.tarjeta_hover.hover2(style="background-color:#E8E8E8;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
-        .row.justify-content-center.mb-3
-          .col-7
-            img(src='@/assets/curso/tema2/13.svg' alt="Imagen decorativa")
-        p.fw-bold.mt-4(style="color:#12263F;") Objetivo
-        p(style="color:#12263F;") Lo que la empresa turística pretende generar en los usuarios con el mensaje.
-      .tarjeta.color-acento-botones.p-4.text-center.tarjeta_hover.hover3(style="background-color:#E8E8E8;box-shadow:0px 4px 8px rgba(0,0,0,.1);")
-        .row.justify-content-center.mb-3
-          .col-7
-            img(src='@/assets/curso/tema2/14.svg' alt="Imagen decorativa")
-        p.fw-bold.mt-4(style="color:#12263F;") Receptor
-        p(style="color:#12263F;") El o los usuarios que reciben el mensaje.
+        p(style="color:#12263F;") Uno o más usuarios que reciben el mensaje.
     
     .mt-5.mb-4.p-3(style="max-width:fit-content;min-width:250px;background-color:#B1DE19;border-radius:30px 0px 30px 0px;" data-aos="zoom-in-up")
       h4.mb-0.ps-2.pe-4 Herramienta CapCut 
