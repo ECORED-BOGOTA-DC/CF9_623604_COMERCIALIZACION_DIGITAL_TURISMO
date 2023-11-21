@@ -336,7 +336,7 @@
               span Ver video
               i.fas.fa-play
     
-    p.mt-5(data-aos="zoom-in") Cabe señalar que hasta hace tantos años, este aspecto era solo un valor agregado, sin embargo, no se convirtió en uno de los pilares de la organización para proteger la información, por lo tanto, es necesario implementar herramientas y procesos para garantizar su protección y una gestión adecuada, una de las técnicas de protección más importantes y básicas para implementar la ciberseguridad es un o cortafuegos o #[em firewall].
+    p.mt-5(data-aos="zoom-in") Cabe señalar que hasta hace tantos años, este aspecto era solo un valor agregado, sin embargo, no se convirtió en uno de los pilares de la organización para proteger la información, por lo tanto, es necesario implementar herramientas y procesos para garantizar su protección y una gestión adecuada, una de las técnicas de protección más importantes y básicas para implementar la ciberseguridad es un cortafuegos o #[em firewall].
 
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FFECBE;border-radius:15px;")

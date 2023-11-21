@@ -213,7 +213,7 @@
     .titulo-segundo
       h2#t_4_4 4.4  Segmentación basada en la plataforma
     
-    p(data-aos="zoom-in") Las empresas de turismo pueden considerar segmentar a los usuarios por plataforma o sitio que dedica más tiempo a impulsar el contenido y generar promociones por canal. El SEO puede identificar el comportamiento de cada mensaje y los segmentos que son más valiosos para telu negocio. Las redes sociales permiten identificar el comportamiento de los usuarios mediante herramientas que están al alcance de todos.
+    p(data-aos="zoom-in") Las empresas de turismo pueden considerar segmentar a los usuarios por plataforma o sitio que dedica más tiempo a impulsar el contenido y generar promociones por canal. El SEO puede identificar el comportamiento de cada mensaje y los segmentos que son más valiosos para el negocio. Las redes sociales permiten identificar el comportamiento de los usuarios mediante herramientas que están al alcance de todos.
     
 
 

@@ -22,7 +22,7 @@
               span Ver video
               i.fas.fa-play
     
-    p.mt-5(data-aos="zoom-in") Todos los usuarios presentar peticiones, quejas, solicitudes y sugerencias, tal como lo señala Constitución Política de Colombia, el Código Contencioso Administrativo y la Circular Única de la Superintendencia de Industria y Comercio, y de deben tener en cuenta los siguientes conceptos:
+    p.mt-5(data-aos="zoom-in") Todos los usuarios presentar peticiones, quejas, solicitudes y sugerencias, tal como lo señala Constitución Política de Colombia, el Código Contencioso Administrativo y la Circular Única de la Superintendencia de Industria y Comercio, y se deben tener en cuenta los siguientes conceptos:
 
     .row.mt-5
       .col-md-6.col-xl-3.mb-4.mb-xl-0
