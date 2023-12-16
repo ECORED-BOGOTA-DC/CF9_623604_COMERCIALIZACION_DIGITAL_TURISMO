@@ -42,7 +42,7 @@
           .col-md-6.mb-4.mb-md-0.col-lg-9(style="place-self:center;")
             h5 Chatbots de ITR
             p Hay chatbots que funcionan sin requerir obligatoriamente la inteligencia artificial, como por ejemplo, los de ITR (Respuesta de Interacción de Texto) o también llamado “#[em dumb chatbots]”, estos no necesitan una aplicación de inteligencia artificial porque funciona gracias a comandos, es decir, emplean botones ya predefinidos y continúan una lógica básica en forma de secuencia, emulando una conversación que parte siempre de un menú de opciones. 
-            p.mt-3 #[em ManyChat] es un buen ejemplo de este tipo, y a pesar de ser algo básico en el mercado, hay una gran viabilidad a la hora de mejorar el #[em engagement] si se crea una buena interacción con el menú. Estos chatbots manipulan comandos son efectivos para obtener clientes potenciales en las páginas de destino.
+            p.mt-3 #[em ManyChat] es un buen ejemplo de este tipo, y a pesar de ser algo básico en el mercado, hay una gran viabilidad a la hora de mejorar el #[em engagement] si se crea una buena interacción con el menú. Estos chatbots manipulan comandos, son efectivos para obtener clientes potenciales en las páginas de destino.
           .col-md-6.col-lg-3(style="place-self:center;")
             figure
               img(src='@/assets/curso/tema5/3.svg' data-aos="zoom-in-left" alt="Imagen decorativa")
@@ -52,7 +52,7 @@
               img(src='@/assets/curso/tema5/4.svg' data-aos="zoom-in-right" alt="Imagen decorativa")
           .col-md-6.col-lg-9.text-start(style="place-self:center;")
             h5 Chatbots cognitivos o #[em “Smart Chatbots”]
-            p Una vez en el complejo, este tipo de #[em chatbot] utiliza inteligencia artificial y aprendizaje automático. Es decir, tienen la capacidad de entender/comprender y procesar las necesidades de una persona a medida que interactúan, volviendo la conversación más natural. También conocido como "NLU" (Entendimiento del Lenguaje Natural), este programa, puede interpretar su intención y proporcionar una respuesta completamente nueva a partir de ella. 
+            p Una vez en el complejo, este tipo de chatbot utiliza inteligencia artificial y aprendizaje automático. Es decir, tienen la capacidad de entender/comprender y procesar las necesidades de una persona a medida que interactúan, volviendo la conversación más natural. También conocido como "NLU" (Entendimiento del Lenguaje Natural), este programa, puede interpretar su intención y proporcionar una respuesta completamente nueva a partir de ella. 
         .row
           .col-md-6.mb-4.mb-md-0.col-lg-9(style="place-self:center;")
             h5 Chatbots de #[em Word-spotting]
@@ -103,7 +103,7 @@
         figure
           img(src="@/assets/curso/tema5/8.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-md-6
-        p(data-aos="zoom-in") Hoy en día los clientes están dispuestos a dejar la marca si el servicio al cliente es inadecuado, es por eso por lo que los chatbots ofrecen la oportunidad de expandir los canales digitales de una empresa y tener un impacto positivo en la experiencia del usuario. La tecnología de #[em chatbot] está aquí y juega un papel importante en el futuro de la interacción empresa-cliente. 
+        p(data-aos="zoom-in") Hoy en día los clientes están dispuestos a dejar la marca si el servicio al cliente es inadecuado, es por eso por lo que los chatbots ofrecen la oportunidad de expandir los canales digitales de una empresa y tener un impacto positivo en la experiencia del usuario. La tecnología de chatbot está aquí y juega un papel importante en el futuro de la interacción empresa-cliente. 
         p.mt-4(data-aos="zoom-in") A continuación se conocerán ventajas y desventajas de usar los chatbots:
     
     h4.mt-5(data-aos="fade-right") Ventajas
@@ -133,14 +133,14 @@
       .tarjeta.color-secundario.p-4(titulo="Optimizar costos" style="background-color:#FFF4E1;")
         .row
           .col-md-6.mb-4-mb-mb-0.col-lg-8
-            p Con la implementación de chatbots con IA conversacional es posible de automatizar el servicio al cliente y mejorar el servicio de los agentes, lo que lleva a la optimización de costos a mediano plazo. 
+            p Con la implementación de chatbots con IA conversacional es posible automatizar el servicio al cliente y mejorar el servicio de los agentes, lo que lleva a la optimización de costos a mediano plazo. 
           .col-md-6.col-lg-4
             figure
               img(src="@/assets/curso/tema5/12.png" alt="Imagen decorativa")
       .tarjeta.color-secundario.p-4(titulo="Mejorar la <br> satisfacción al cliente" style="background-color:#FFF4E1;")
         .row
           .col-md-6.mb-4-mb-mb-0.col-lg-8
-            p Las personas son muy diferentes y las formas en que se comunican son diferentes. Por lo tanto, es importante dar una respuesta adecuada y sensible a cada solicitud. Por ejemplo, el #[em chatbot] puede ayudar a comprender los lenguajes informales y regionalismos, así como usar complementos para enriquecer las conversaciones y reconocer la intención detrás de cada diálogo.
+            p Las personas son muy diferentes y las formas en que se comunican son diferentes. Por lo tanto, es importante dar una respuesta adecuada y sensible a cada solicitud. Por ejemplo, el chatbot puede ayudar a comprender los lenguajes informales y regionalismos, así como usar complementos para enriquecer las conversaciones y reconocer la intención detrás de cada diálogo.
           .col-md-6.col-lg-4
             figure
               img(src="@/assets/curso/tema5/13.svg" alt="Imagen decorativa")

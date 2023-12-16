@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema7/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4.p-lg-5
-        p.mb-0 Business Intelligence (BI) es la combinación entre minería de datos, visualización de datos, herramientas e infraestructura de datos y mejores prácticas para mantener a las organizaciones a implementar decisiones basadas en datos. En la práctica, sabe que tiene una genialidad de negocios moderna cuando tiene una fantasía mundial de los datos de su dirección y utiliza esos datos para propiciar el cambio, extender las ineficiencias y adaptarse enseguida a los cambios del mercado o de la oferta. 
+        p.mb-0 #[em Business Intelligence] (BI) es la combinación entre minería de datos, visualización de datos, herramientas e infraestructura de datos y mejores prácticas para mantener a las organizaciones a implementar decisiones basadas en datos. En la práctica, sabe que tiene una genialidad de negocios moderna cuando tiene una fantasía mundial de los datos de su dirección y utiliza esos datos para propiciar el cambio, extender las ineficiencias y adaptarse enseguida a los cambios del mercado o de la oferta. 
         |
         br
         br
@@ -26,7 +26,7 @@
     
     .col-xl-10.m-auto
       .cajon.color-primario.p-4(style="background-color:#FFF7E5;box-shadow:0px 4px 8px rgba(0,0,0,.1);" data-aos="zoom-in-up")
-        p.mb-0 Una de las principales características de Business Intelligence es que el #[em software] es muy práctico y fácil de usar, pues no se necesitan conocimientos técnicos de ciencia de datos para realizar las capacidades de análisis de datos, ya que el procesamiento de datos automáticamente. Otras características de inteligencia de negocios relacionadas con la herramienta son:
+        p.mb-0 Una de las principales características de #[em Business Intelligence] es que el #[em software] es muy práctico y fácil de usar, pues no se necesitan conocimientos técnicos de ciencia de datos para realizar las capacidades de análisis de datos, ya que el procesamiento de datos automáticamente. Otras características de inteligencia de negocios relacionadas con la herramienta son:
     
     ImagenInfograficaB.infografia1.color-secundario.mt-5
       template(v-slot:imagen)

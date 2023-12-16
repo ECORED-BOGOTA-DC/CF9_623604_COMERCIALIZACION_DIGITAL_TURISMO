@@ -53,7 +53,7 @@
     
     .col-xl-10.m-auto
       .cajon.color-primario.p-4(style="background-color:#FFF7E5;box-shadow:0px 4px 8px rgba(0,0,0,.1);" data-aos="zoom-in-up")
-        p.mb-0 Para mantener la relevancia en el mercado y aumentar la ventaja competitiva, las empresas necesitan tener acceso a una información confiable y precisa. En este contexto, el #[em big data] ha demostrado ser una herramienta muy útil en la toma de decisiones, pues para que sea efectiva se requiere de bases en datos sólidas, con las que se pueda analizar con más detalle factores como las tendencias del mercado, la calidad de la producción, rendimiento de las áreas de la empresa, así como el servicio al cliente. Todo lo anterior da la opción a la organización de mejorar los servicios y aumentar la rentabilidad.
+        p.mb-0 Para mantener la relevancia en el mercado y aumentar la ventaja competitiva, las empresas necesitan tener acceso a una información confiable y precisa. En este contexto, el #[em big data] ha demostrado ser una herramienta muy útil en la toma de decisiones, pues para que sea efectiva se requiere de bases en datos sólidas, con las que se pueda analizar con más detalle factores como las tendencias del mercado, la calidad de la producción, rendimiento de las áreas de la empresa, así como el servicio al cliente; todo lo anterior da la opción a la organización de mejorar los servicios y aumentar la rentabilidad.
     
     Separador.mt-5
 

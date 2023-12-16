@@ -22,7 +22,7 @@
               span Ver video
               i.fas.fa-play
     
-    p.mt-5(data-aos="zoom-in") Todos los usuarios presentar peticiones, quejas, solicitudes y sugerencias, tal como lo señala Constitución Política de Colombia, el Código Contencioso Administrativo y la Circular Única de la Superintendencia de Industria y Comercio, y se deben tener en cuenta los siguientes conceptos:
+    p.mt-5(data-aos="zoom-in") Todos los usuarios presentar peticiones, quejas, solicitudes y sugerencias, tal como lo señala Constitución Política de Colombia, el Código Contencioso Administrativo y la Circular Única de la Superintendencia de Industria y Comercio, en el que se presentan tener en cuenta los siguientes conceptos:
 
     .row.mt-5
       .col-md-6.col-xl-3.mb-4.mb-xl-0
@@ -126,7 +126,7 @@
       .tarjeta-numerada.color-primario.p-5
         .tarjeta-numerada__numero
           .h2 5
-        p.text-center.mb-0 Recopilar y analizar información relacionada con la solicitud, preparar y proyectar respuesta teniendo en cuenta el tipo de petición y los tiempos de vencimiento para dar respuesta a la petición en términos de oportunidad, eficiencia, eficacia y calidad.
+        p.text-center.mb-0 Recopilar y analizar información relacionada con la solicitud, preparar y proyectar respuesta, teniendo en cuenta el tipo de petición y los tiempos de vencimiento para dar respuesta a la petición en términos de oportunidad, eficiencia, eficacia y calidad.
         p.text-center.mb-0 Comprobar las peticiones a cargo de la dependencia y emitir respuesta acorde con los tiempos establecidos.
       .tarjeta-numerada.color-acento-botones.p-5
         .tarjeta-numerada__numero

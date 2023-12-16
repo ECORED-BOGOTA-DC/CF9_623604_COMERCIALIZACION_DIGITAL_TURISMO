@@ -186,7 +186,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-lg-7
             h5 Ifood Colombia
-            p Creado en  Brasil en 2011 y llegando a Colombia a principios de 2018, atiende a siete capitales, entre ellas: Bogotá, Cali, Medellín, Bucaramanga, Cartagena, Barranquilla, Manizales, Santa Malta, Pereira, entre otras. Actualmente está prestando sus servicios en países de América Latina, como Argentina y México.
+            p Creado en  Brasil en 2011 y llegando a Colombia a principios de 2018, atiende a siete capitales, entre ellas: Bogotá, Cali, Medellín, Bucaramanga, Cartagena, Barranquilla, Manizales, Santa Marta, Pereira, entre otras. Actualmente está prestando sus servicios en países de América Latina, como Argentina y México.
             p.mt-3 En Colombia cuenta con más de 4.000 establecimientos  en su plataforma digital, el objetivo de esta aplicación es brindar  a las empresas sin grandes infraestructuras la oportunidad de revolucionar la industria hotelera a través de canales comerciales distintos a la venta personal.
           .col-md-6.col-lg-5
             figure
@@ -194,7 +194,7 @@
         .row
           .col-md-6.mb-4.mb-md-0.col-lg-7
             h5 Uber Eats
-            p Llegando a Colombia en 2016, ahora hay más de 3.000 restaurantes en plataformas digitales. Uber Eats brinda a los usuarios efectividad, eficiencia y rapidez. La ventaja de esta aplicación es su inmediatez ya que el repartidor o residente completa el 50 % de la entrega en 30 minutos  y llega al cliente satisfecho y conforme con el servicio.
+            p Llegando a Colombia en 2016, ahora hay más de 3.000 restaurantes en plataformas digitales. Uber Eats brinda a los usuarios efectividad, eficiencia y rapidez. La ventaja de esta aplicación es su inmediatez, ya que el repartidor o residente completa el 50 % de la entrega en 30 minutos  y llega al cliente satisfecho y conforme con el servicio.
           .col-md-6.col-lg-5
             figure
               img(src='@/assets/curso/tema3/21.svg' alt="Logo comercial que identifica a Uber Eats.")
@@ -210,7 +210,7 @@
     .mt-5.mb-4.p-3(style="max-width:fit-content;min-width:250px;background-color:#B1DE19;border-radius:30px 0px 30px 0px;" data-aos="zoom-in-up")
       h4.mb-0.ps-2.pe-4 Plataformas para desarrollar eventos virtuales
     
-    p(data-aos="zoom-in") Las plataformas para eventos facilitan herramientas de gestión de cualquier tipo de evento; estas plataformas de eventos son fáciles de usar y simplifican los procesos logísticos que se requieren, a continuación, se presentan:
+    p(data-aos="zoom-in") Las plataformas para eventos facilitan herramientas de gestión de cualquier tipo de evento; estas plataformas de eventos son fáciles de usar y simplifican los procesos logísticos que se requieren, a continuación, se presentan algunas de ellas:
 
     .row.mt-5(@click="mostrarIndicador = false")
       .col-lg-4.mb-4.col-md-6
@@ -270,7 +270,7 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0.col-lg-8
               h4.text-white Microsoft Teams
-              p.text-white Diseñada para el trabajo colaborativo en la plataforma en la nube de Microsoft. Cuenta con chats individuales y grupales, conversaciones de equipo, videoconferencias, notas, acceso a contenido compartido, Office Online, Planner, entre otras.
+              p.text-white Diseñada para el trabajo colaborativo en la plataforma en la nube de Microsoft. Cuenta con chats individuales y grupales, conversaciones de equipo, videoconferencias, notas, acceso a contenido compartido, #[em Office Online, Planner], entre otras.
             .col-md-6.col-lg-4
               figure
                 img(src='@/assets/curso/tema3/33.svg' alt="Imagen decorativa")
@@ -295,45 +295,45 @@
     .tarjeta.tarjeta--gris.p-4.p-md-5.pt-md-4.mt-5.cont_pasos1
       PasosB.color-secundario
         .row(titulo="")
-          .col-md-6.mb-4.mb-md-0.col-lg-7
+          .col-lg-7.col-md-6.mb-4.mb-md-0
             h5 Masivas
             p Dirigidas al público masivo en general, no se centran en un tema específico. Son las más comunes entre la población. Su principal función es la de establecer relaciones entre sus miembros, que pueden o no conocerse previamente. Las más comunes son Facebook o Twitter.
-          .col-md-6.col-lg-5
+          .col-lg-5.col-md-6
             figure
               img(src='@/assets/curso/tema3/36.svg' alt="Imagen de redes sociales Facebook, Instagram y Twitter.")
         .row.col-xl-11.m-auto(titulo="")
-          .col-md-6.mb-4.mb-md-0.col-lg-7
+          .col-lg-7.col-md-6.mb-4.mb-md-0
             h5 Profesionales
             p Se estructuran a través de contenidos orientados a temas laborales o empresariales, son útiles para desarrollar relaciones, recomendaciones y búsqueda de oportunidades laborales o de negocios. Algunas de las más conocidas son LinkedIn o Xing.
-          .col-md-6.col-lg-5
+          .col-lg-5.col-md-6
             figure
               img(src='@/assets/curso/tema3/37.svg' alt="Imagen de LinkedIn.")
         .row.col-xl-11.m-auto(titulo="")
-          .col-md-6.mb-4.mb-md-0.col-lg-7
+          .col-lg-7.col-md-6.mb-4.mb-md-0
             h5 De nicho o temáticas
             p Se basan en un tema concreto y establecen relaciones entre usuarios interesados en él. Algunos ejemplos son Flickr, Dribble o Tripwolf.
-          .col-md-6.col-lg-5
+          .col-lg-5.col-md-6
             figure
               img(src='@/assets/curso/tema3/38.svg' alt="Imagen de tripwolf.")
         .row.col-xl-11.m-auto(titulo="")
-          .col-md-6.mb-4.mb-md-0.col-lg-7
+          .col-lg-7.col-md-6.mb-4.mb-md-0
             h5 Geolocalización
             p Llevan a socializar por medio de la localización física de los usuarios, Algunas de las más conocidas son Waze o Foursquare.
-          .col-md-6.col-lg-5
+          .col-lg-5.col-md-6
             figure
               img(src='@/assets/curso/tema3/39.svg' alt="Imagen de Foursquere.")
         .row.col-xl-11.m-auto(titulo="")
-          .col-md-6.mb-4.mb-md-0.col-lg-7
+          .col-lg-7.col-md-6.mb-4.mb-md-0
             h5 De contenidos
             p En esta categoría los elementos principales para los usuarios son la generación de contenidos y formatos para compartir. Las más importantes son Youtube, Instagram, Vimeo, Pinterest.
-          .col-md-6.col-lg-5
+          .col-lg-5.col-md-6
             figure
               img(src='@/assets/curso/tema3/40.svg' alt="Imagen de Vimeo.")
         .row.col-xl-11.m-auto(titulo="")
-          .col-md-6.mb-4.mb-md-0.col-lg-7
+          .col-lg-7.col-md-6.mb-4.mb-md-0
             h5 De entretenimiento y ocio
             p En esta categoría las relaciones de los usuarios, se basan en sus gustos y afinidades, podemos mencionar a Tripadvisor, Runtastic, Strava o Tinder.
-          .col-md-6.col-lg-5
+          .col-lg-5.col-md-6
             figure
               img(src='@/assets/curso/tema3/41.svg' alt="Imagen de tripadvisor.")
     

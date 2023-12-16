@@ -135,12 +135,12 @@ export default {
         subMenu: [
           {
             numero: '5.1',
-            titulo: '¿Qué son los <em>chatbots</em>?',
+            titulo: '¿Qué son los chatbots?',
             hash: 't_5_1',
           },
           {
             numero: '5.2',
-            titulo: 'Tipos de <em>chatbots</em>',
+            titulo: 'Tipos de chatbots',
             hash: 't_5_2',
           },
           {
@@ -206,7 +206,7 @@ export default {
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: 'Business Intelligence',
+        titulo: '<em>Business Intelligence</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -377,7 +377,7 @@ export default {
       referencia:
         'Ecosistema de Recursos Educativos Digitales SENA. (2021). Creación de piezas. [Video]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.YouTube.com/watch?v=VDC5rltd8Vw&t=61s',
+      link: 'https://www.YouTube.com/watch?v=VDC5rltd8Vw',
     },
     {
       tema: 'Herramienta para la creación de audio',
@@ -437,7 +437,8 @@ export default {
     },
     {
       tema: 'Técnicas de búsqueda',
-      referencia: 'Mecatrónica UX. (2020). Búsqueda por amplitud o anchura.',
+      referencia:
+        'Inteligencia Artificial-Mecatrónica UX. (2020). Búsqueda por amplitud o anchura.',
       tipo: 'Video',
       link: 'https://youtu.be/dfvgNztUhrc',
     },

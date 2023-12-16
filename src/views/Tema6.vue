@@ -87,7 +87,7 @@
       li.d-flex(data-aos="fade-up")
         .lista-ol--cuadro__vineta(style="background-color:#3BC192;")
           span 2
-        div #[strong Búsqueda heurística o inteligente:] está dispone alguna información sobre la proximidad de cada estado al estado de destino. Esta situación les permite encontrar primero el camino más prometedor.
+        div #[strong Búsqueda heurística o inteligente:] esta dispone alguna información sobre la proximidad de cada estado al estado de destino. Esta situación les permite encontrar primero el camino más prometedor.
     .row.mt-4(data-aos="zoom-in")
       .col-auto.pe-0(style="place-self:center;")
         figure
@@ -188,7 +188,7 @@
         p(data-aos="zoom-in") La normalización es una técnica comúnmente utilizada en la preparación de datos de aprendizaje automático. El objetivo de la normalización es cambiar los valores en una columna numérica de un conjunto de datos para compartir una escala común sin distorsionar las diferencias en el rango de valores o perder información. Algunos algoritmos también requieren normalización para modelar correctamente los datos.
       .col-lg-5.col-md-6
         .cajon.p-4.color-acento-contenido(style="background-color:#CDF0E4;" data-aos="flip-up")
-          p.mb-0 La normalización resuelve estos problemas mediante la creación de nuevos valores que mantienen la distribución general y las relaciones de los datos de origen al tiempo que conserva los valores en la escala que se aplican a todas las columnas numéricas utilizadas en el modelo de datos.
+          p.mb-0 La normalización resuelve estos problemas mediante la creación de nuevos valores que mantienen la distribución general y las relaciones de los datos de origen, al tiempo que conserva los valores en la escala que se aplican a todas las columnas numéricas utilizadas en el modelo de datos.
 
     p.mt-4(data-aos="zoom-in") Un buen ejemplo de esto es la normalización de direcciones, especialmente de códigos postales. Esto es importante porque ayuda a enriquecer la base de datos a través de la geolocalización. Es tan importante cuando los clientes brindan información sobre su perfil directamente, como en un formulario, como en el caso del mapeo putativo de indicadores tipográficos o de comportamiento vinculados a su ubicación geográfica.
     p.mt-4(data-aos="zoom-in") En las primeras etapas de trabajo, la calidad de los datos es baja. La recopilación de datos reales sin estándares da como resultado datos incompletos, aislados, inexactos y poco saludables, es decir, algunos datos no se pueden utilizar para sacar conclusiones y mejorar las decisiones empresariales. Pero la solución es ir paso a paso en lugar de repetirlos. Aquí, se presentarán tres tecnologías de procesamiento de datos:
@@ -224,7 +224,7 @@
         p(data-aos="zoom-in") La gestión de datos se ha convertido en un desafío debido al aumento significativo de datos no estructurados. Para el análisis, los datos deben convertirse a un formato legible por máquina. Sin embargo, la creciente importancia de la toma de decisiones basada en datos ha cambiado la forma en que los gerentes toman decisiones estratégicas. Las investigaciones muestran que las empresas que toman decisiones basadas en datos son entre un 5 y un 6 % más productivas, por ello, es importante utilizar herramientas para la extracción de datos. 
         p.mt-4(data-aos="zoom-in") Sin embargo, se puede definir la extracción de datos como: el proceso de extraer y recopilar datos de fuentes semiestructuradas y no estructuradas, como correo electrónico, documentos y formularios PDF, archivos de texto, redes sociales, códigos de barras e imágenes. ¿Cómo se realiza la extracción de datos no estructurados? Las herramientas de extracción de datos de clase empresarial le permiten usar datos comerciales entrantes de fuentes no estructuradas o semiestructuradas para el análisis de datos y la generación de informes.
     
-    p.mt-3(data-aos="zoom-in") Extraer datos, especialmente de los archivos PDF, es un poco complejo pues porque está pensado para ser analizado por una persona, mientras que para una máquina, es importante que los datos se encuentren de forma estructurada para su posterior análisis e integración con otras aplicaciones de TI. 
+    p.mt-3(data-aos="zoom-in") Extraer datos, especialmente de los archivos PDF, es un poco complejo, pues, está pensado para ser analizado por una persona, mientras que para una máquina, es importante que los datos se encuentren de forma estructurada para su posterior análisis e integración con otras aplicaciones de TI. 
     p.mt-4(data-aos="zoom-in") Optar por una herramienta de extracción de datos adecuada, debe cumplir con ciertos requisitos, desde la preparación de los datos hasta generar informes con el que se pueda tomar decisiones, por lo que se debe considerar: 
 
     .row.mt-4(data-aos="zoom-in")

@@ -174,7 +174,7 @@
           p.mb-0 Un ejemplo de lo anterior, es el caso de Apple, que entiende que todas las acciones comunicativas que se toman, deben estar alineadas con los atributos que buscan sus prospectos, anunciándose como tecnología simple, amigable e innovadora, en la cual predomina un concepto minimalista, basándose en colores como el blanco que, a nivel visual, da la sensación de sencillez y transparencia, y negro que transmite solidez y elegancia.
           p.mt-4.mb-0 Así es como, Apple no se queda solo en el diseño, transmite este concepto a sus tiendas y máquinas, sus colaboradores tienen el perfil de personas jóvenes y amables, en su #[em packaging] mantiene la misma coherencia, pensando en el consumidor, en como el empaque sea simple e intuitivo, de manera que el usuario tenga una experiencia clara y concisa de qué obtendrá con el producto. 
     
-    p.mt-5(data-aos="zoom-in") De modo que, debe existir un objetivo claro y que todos los integrantes de la empresa conozcan sobre el ADN de la marca que lo compone el nombre, el logotipo, los valores, la tipografía, los colores y la filosofía. Con esta herramienta, la empresa turística puede diseñar su marca, permitiendo la toma decisiones creativas, para los distintos contextos, en el espacio y tiempo, para mantener la marca fresca y en sintonía con los deseos, necesidades y atributos buscados por el público objetivo. 
+    p.mt-5(data-aos="zoom-in") De modo que, debe existir un objetivo claro y que todos los integrantes de la empresa conozcan sobre el ADN de la marca que lo compone: el nombre, el logotipo, los valores, la tipografía, los colores y la filosofía. Con esta herramienta, la empresa turística puede diseñar su marca, permitiendo la toma decisiones creativas, para los distintos contextos, en el espacio y tiempo, para mantener la marca fresca y en sintonía con los deseos, necesidades y atributos buscados por el público objetivo. 
 
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background-color:#FFECBE;border-radius:15px;")
@@ -277,7 +277,7 @@
               img(src='@/assets/curso/tema1/16.svg' style="display:inline;max-width:380px;" alt="Imagen decorativa")
           .col-md-6(style="place-self:center;")
             h5 Canva
-            p Es una herramienta gratuita, solo se debe hacer el registro para comenzar a diseñar. Incluye un tutorial como guia para principiantes. Es importante señalar que además de la versión gratuita, existe una versión "pro" paga. Incluye imágenes, plantillas y otros recursos. Canva tiene una biblioteca muy grande y diversa de más de 1 millón de activos, que incluyen plantillas, fotos, gráficos, ilustraciones e íconos.
+            p Es una herramienta gratuita, solo se debe hacer el registro para comenzar a diseñar. Incluye un tutorial como guía para principiantes. Es importante señalar que además de la versión gratuita, existe una versión "pro" paga. Incluye imágenes, plantillas y otros recursos. Canva tiene una biblioteca muy grande y diversa de más de 1 millón de activos, que incluyen plantillas, fotos, gráficos, ilustraciones e íconos.
             p.mt-3 Tiene un motor de búsqueda para encontrar las imágenes precisas según la necesidad, e incluye la opción de subir fotos del computador o de Facebook. Una vez seleccionada una plantilla, se puede modificar lo que se requiera. Los elementos están en capas y agrupados, pero puede desagruparse para editarlos individualmente.
     
     Separador.mt-5
