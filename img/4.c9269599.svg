@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.375" height="15" viewBox="0 0 19.375 15">
+  <g id="people" transform="translate(-1 -8)">
+    <path id="Trazado_749757" data-name="Trazado 749757" d="M28.536,28.768v-.923A1.845,1.845,0,0,0,26.691,26H24.845A1.845,1.845,0,0,0,23,27.845v.923s.308.615,2.768.615S28.536,28.768,28.536,28.768Z" transform="translate(-15.08 -12.348)" fill="#eb6f2d"/>
+    <circle id="Elipse_8543" data-name="Elipse 8543" cx="1.734" cy="1.734" r="1.734" transform="translate(8.954 10.181)" fill="#eb6f2d"/>
+    <path id="Trazado_749758" data-name="Trazado 749758" d="M53.257,27.845v.923s-.308.615-2.768.615a9.546,9.546,0,0,1-1.559-.111A6.1,6.1,0,0,0,49.874,26h1.538A1.845,1.845,0,0,1,53.257,27.845Z" transform="translate(-32.882 -12.348)" fill="#eb6f2d"/>
+    <path id="Trazado_749759" data-name="Trazado 749759" d="M52.713,16.538a1.538,1.538,0,0,1-1.538,1.538,1.56,1.56,0,0,1-.634-.135,6.053,6.053,0,0,0-.621-2.291,1.538,1.538,0,0,1,2.793.889Z" transform="translate(-33.568 -4.847)" fill="#eb6f2d"/>
+    <path id="Trazado_749760" data-name="Trazado 749760" d="M5.327,29.272a9.546,9.546,0,0,1-1.559.111c-2.46,0-2.768-.615-2.768-.615v-.923A1.845,1.845,0,0,1,2.845,26H4.383a6.1,6.1,0,0,0,.944,3.272Z" transform="translate(0 -12.348)" fill="#eb6f2d"/>
+    <path id="Trazado_749761" data-name="Trazado 749761" d="M7.792,15.649a6.053,6.053,0,0,0-.621,2.291,1.56,1.56,0,0,1-.634.135,1.538,1.538,0,1,1,1.255-2.427Z" transform="translate(-2.769 -4.847)" fill="#eb6f2d"/>
+    <path id="Trazado_749762" data-name="Trazado 749762" d="M19.689,8A5.614,5.614,0,0,0,14,13.536a5.691,5.691,0,0,0,11.379,0A5.614,5.614,0,0,0,19.689,8Zm0,10.457a4.99,4.99,0,0,1-5.057-4.921,5.059,5.059,0,0,1,10.114,0A4.99,4.99,0,0,1,19.689,18.457Z" transform="translate(-9.002 0)" fill="#eb6f2d"/>
+    <path id="Trazado_749763" data-name="Trazado 749763" d="M0,0H.615V2.175H0Z" transform="translate(14.238 17.612) rotate(-45)" fill="#eb6f2d"/>
+    <path id="Trazado_749764" data-name="Trazado 749764" d="M0,0H1.74V4.784H0Z" transform="translate(15.451 19.617) rotate(-45)" fill="#eb6f2d"/>
+  </g>
+</svg>
